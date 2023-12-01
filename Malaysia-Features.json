@@ -1,0 +1,112 @@
+{
+    "Ardasier Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1986,
+        "by": "Malaysia"
+      },
+      "international_names": {
+        "U.S.": "Ardasier Reef",
+        "China": "Guangxingzi Jiao, 光星仔礁",
+        "Philippines": "Antonio Luna Reef",
+        "Taiwan": "Andu Tan, 安渡灘",
+        "Malaysia": "Terumbu Ubi",
+        "Vietnam": "Đá Kiêu Ngựa"
+      },
+      "current_status": {
+        "occupied_by": "Malaysia",
+        "legal_status": "Low-tide elevation"
+      },
+      "geographic_details": {
+        "coordinates": "7° 37' 3\" N, 113° 56' 21\" E"
+      }
+    },
+    "Erica Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1999,
+        "by": "Malaysia"
+      },
+      "international_names": {
+        "U.S.": "Erica Reef",
+        "China": "Boji Jiao, 簸箕礁",
+        "Philippines": "Gabriela Silang Reef",
+        "Malaysia": "Terumbu Siput",
+        "Vietnam": "Đá Én Ca"
+      },
+      "current_status": {
+        "occupied_by": "Malaysia",
+        "legal_status": "Rock"
+      },
+      "geographic_details": {
+        "coordinates": "8° 6' 20\" N, 114° 7' 55\" E"
+      }
+    },
+    "Investigator Shoal": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1999,
+        "by": "Malaysia"
+      },
+      "international_names": {
+        "U.S.": "Investigator Shoal",
+        "China": "Yuya Ansha, 榆亚暗沙",
+        "Philippines": "Pawikan Shoal",
+        "Taiwan": "Yuya Ansha, 榆亞暗沙",
+        "Malaysia": "Terumbu Peninjau",
+        "Vietnam": "Bãi Thám Hiểm"
+      },
+      "current_status": {
+        "occupied_by": "Malaysia",
+        "legal_status": "Low-tide elevation"
+      },
+      "geographic_details": {
+        "coordinates": "8° 7' 3\" N, 114° 41' 28\" E"
+      }
+    },
+    "Mariveles Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1986,
+        "by": "Malaysia"
+      },
+      "international_names": {
+        "U.S.": "Mariveles Reef",
+        "China": "Nanhai Jiao, 南海礁",
+        "Philippines": "Mariveles Reef",
+        "Taiwan": "Nanhai Jiao, 南海礁",
+        "Malaysia": "Terumbu Montanani",
+        "Vietnam": "Đá Kỳ Vân"
+      },
+      "current_status": {
+        "occupied_by": "Malaysia",
+        "legal_status": "Low-tide elevation"
+      },
+      "geographic_details": {
+        "coordinates": "7° 58' 12\" N, 113° 55' 3\" E"
+      }
+    },
+    "Swallow Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1983,
+        "by": "Malaysia"
+      },
+      "international_names": {
+        "U.S.": "Swallow Reef",
+        "China": "Danwan Jiao, 弹丸礁",
+        "Philippines": "Celerio Reef",
+        "Taiwan": "Danwan Jiao, 彈丸礁",
+        "Malaysia": "Pulau Layang-Layang",
+        "Vietnam": "Đá Hoa Lau"
+      },
+      "current_status": {
+        "occupied_by": "Malaysia",
+        "legal_status": "Rock"
+      },
+      "geographic_details": {
+        "coordinates": "7° 22' 20\" N, 113° 50' 43\"E"
+      }
+    }
+  }
+  
