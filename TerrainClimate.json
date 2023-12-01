@@ -1,0 +1,524 @@
+{
+    "Afghanistan": {
+      "Climate": "arid to semiarid; cold winters and hot summers",
+      "Terrain": "mostly rugged mountains; plains in north and southwest"
+    },
+    "Akrotiri": {
+      "Climate": "temperate; Mediterranean with hot, dry summers and cool winters",
+      "Terrain": ""
+    },
+    "Albania": {
+      "Climate": "mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter",
+      "Terrain": "mostly mountains and hills; small plains along coast"
+    },
+    "Algeria": {
+      "Climate": "arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer",
+      "Terrain": "mostly high plateau and desert; Atlas Mountains in the far north and Hoggar Mountains in the south; narrow, discontinuous coastal plain"
+    },
+    "American Samoa": {
+      "Climate": "tropical marine, moderated by southeast trade winds; annual rainfall averages about 3 m; rainy season (November to April), dry season (May to October); little seasonal temperature variation",
+      "Terrain": "five volcanic islands with rugged peaks and limited coastal plains, two coral atolls (Rose Atoll, Swains Island)"
+    },
+    "Andorra": {
+        "Climate": "temperate; snowy, cold winters and warm, dry summers",
+        "Terrain": "rugged mountains dissected by narrow valleys"
+    },
+    "Angloa": {
+        "Climate": "semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)",
+        "Terrain": "narrow coastal plain rises abruptly to vast interior plateau"
+    },
+    "Anguilla": {
+        "Climate": "tropical; moderated by northeast trade winds",
+        "Terrain": "flat and low-lying island of coral and limestone"
+    },
+    "Antarctica": {
+        "Climate": "the coldest, windiest, and driest continent on Earth; severe low temperatures vary with latitude, elevation, and distance from the ocean; East Antarctica is colder than West Antarctica because of its higher elevation; Antarctic Peninsula has the most moderate climate; higher temperatures occur in January along the coast and average slightly below freezing; summers characterized by continuous daylight, while winters bring continuous darkness; persistent high pressure over the interior brings dry, subsiding air that results in very little cloud cover",
+        "Terrain": "about 99% thick continental ice sheet and 1% barren rock, with average elevations between 2,000 and 4,000 m; mountain ranges up to nearly 5,000 m; ice-free coastal areas include parts of southern Victoria Land, Wilkes Land, the Antarctic Peninsula area, and parts of Ross Island on McMurdo Sound; glaciers form ice shelves along about half of the coastline, and floating ice shelves constitute 11% of the area of the continent"
+    },
+    "Antigua and Barbuda": {
+        "Climate": "tropical maritime; little seasonal temperature variation",
+        "Terrain": "mostly low-lying limestone and coral islands, with some higher volcanic areas"
+    },
+    "Argentina": {
+        "Climate": "mostly temperate; arid in southeast; subantarctic in southwest",
+        "Terrain": "rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border"
+    },
+    "Armenia": {
+        "Climate": "highland continental, hot summers, cold winters",
+        "Terrain": "Armenian Highland with mountains; little forest land; fast flowing rivers; good soil in Aras River valley"
+    },
+    "Aruba": {
+        "Climate": "tropical marine; little seasonal temperature variation",
+        "Terrain": "flat with a few hills; scant vegetation"
+    },
+    "Ashmore and Cartier Islands": {
+        "Climate": "tropical",
+        "Terrain": "low with sand and coral"
+    },
+    "Australia": {
+        "Climate": "generally arid to semiarid; temperate in south and east; tropical in north",
+        "Terrain": "mostly low plateau with deserts; fertile plain in southeast"
+    },
+    "Austria": {
+        "Climate": "temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers",
+        "Terrain": "mostly mountains (Alps) in the west and south; mostly flat or gently sloping along the eastern and northern margins"
+    },
+    "Azerbaijan": {
+        "Climate": "dry, semiarid steppe",
+        "Terrain": "large, flat Kur-Araz Ovaligi (Kura-Araks Lowland, much of it below sea level) with Great Caucasus Mountains to the north, Qarabag Yaylasi (Karabakh Upland) to the west; Baku lies on Abseron Yasaqligi (Apsheron Peninsula) that juts into Caspian Sea"
+    },
+    "Bahamas, The": {
+        "Climate": "tropical marine; moderated by warm waters of Gulf Stream",
+        "Terrain": "long, flat coral formations with some low rounded hills"
+    },
+    "Bahrain": {
+        "Climate": "arid; mild, pleasant winters; very hot, humid summers",
+        "Terrain": "mostly low desert plain rising gently to low central escarpment"
+    },
+    "Baker Island": {
+        "Climate": "equatorial; scant rainfall, constant wind, burning sun;",
+        "Terrain": "low and nearly flat sandy coral islands with narrow fringing reefs that have developed at the top of submerged volcanic mountains, which in most cases rise steeply from the ocean floor"
+    },
+    "Bangladesh": {
+        "Climate": "tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)",
+        "Terrain": "mostly flat alluvial plain; hilly in southeast"
+    },
+    "Barbados": {
+        "Climate": "tropical; rainy season (June to October)",
+        "Terrain": "relatively flat; rises gently to central highland region"
+    },
+    "Belarus": {
+        "Climate": "cold winters, cool and moist summers; transitional between continental and maritime",
+        "Terrain": "generally flat with much marshland"
+    },
+    "Belgium": {
+        "Climate": "temperate; mild winters, cool summers; rainy, humid, cloudy",
+        "Terrain": "flat coastal plains in northwest, central rolling hills, rugged mountains of Ardennes Forest in southeast"
+    },
+    "Belize": {
+        "Climate": "tropical; very hot and humid; rainy season (May to November); dry season (February to May)",
+        "Terrain": "flat, swampy coastal plain; low mountains in south"
+    },
+    "Benin": {
+        "Climate": "tropical; hot, humid in south; semiarid in north",
+        "Terrain": "mostly flat to undulating plain; some hills and low mountains"
+    },
+    "Bermuda": {
+        "Climate": "subtropical; mild, humid; gales, strong winds common in winter",
+        "Terrain": "low hills separated by fertile depressions"
+    },
+    "Bhutan": {
+        "Climate": "varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas",
+        "Terrain": "mostly mountainous with some fertile valleys and savanna"
+    },
+    "Bolivia": {
+        "Climate": "varies with altitude; humid and tropical to cold and semiarid",
+        "Terrain": "rugged Andes Mountains with a highland plateau (Altiplano), hills, lowland plains of the Amazon Basin"
+    },
+    "Bosnia and Herzegovina": {
+        "Climate": "hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast",
+        "Terrain": "mountains and valleys"
+    },
+    "Botswana": {
+        "Climate": "semiarid; warm winters and hot summers",
+        "Terrain": "predominantly flat to gently rolling tableland; Kalahari Desert in southwest"
+    },
+    "Bouvet Island": {
+        "Climate": "antarctic",
+        "Terrain": "volcanic; coast is mostly inaccessible"
+    },
+    "Brazil": {
+        "Climate": "mostly tropical, but temperate in south",
+        "Terrain": "mostly flat to rolling lowlands in north; some plains, hills, mountains, and narrow coastal belt"
+    },
+    "British Indian Ocean Territory": {
+        "Climate": "tropical marine; hot, humid, moderated by trade winds",
+        "Terrain": "flat and low coral atolls (most areas do not exceed two m in elevation); sits atop the submarine volcanic Chagos-Laccadive Ridge"
+    },
+    "British Virgin islands": {
+        "Climate": "subtropical; humid; temperatures moderated by trade winds",
+        "Terrain": "coral islands relatively flat; volcanic islands steep, hilly"
+    },
+    "Brunei": {
+        "Climate": "tropical; hot, humid, rainy",
+        "Terrain": "flat coastal plain rises to mountains in east; hilly lowland in west"
+    },
+    "Bulgaria": {
+        "Climate": "temperate; cold, damp winters; hot, dry summers",
+        "Terrain": "mostly mountains with lowlands in north and southeast"
+    },
+    "Burkina Faso": {
+        "Climate": "three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert",
+        "Terrain": "mostly flat to dissected, undulating plains; hills in the west and southeast; occupies an extensive plateau with savanna that is grassy in the north and gradually gives way to sparse forests in the south"
+    },
+    "Burma": {
+        "Climate": "tropical monsoon; cloudy, rainy, hot, humid summers (southwest monsoon, June to September); less cloudy, scant rainfall, mild temperatures, lower humidity during winter (northeast monsoon, December to April)",
+        "Terrain": "central lowlands ringed by steep, rugged highlands"
+    },
+    "Burundi": {
+        "Climate": "equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)",
+        "Terrain": "hilly and mountainous, dropping to a plateau in east, some plains"
+    },
+    "Cabo Verde":{
+        "Climate": "temperate; warm, dry summer; precipitation meager and erratic",
+        "Terrain": "steep, rugged, rocky, volcanic"
+    },
+    "Cambodia": {
+        "Climate": "tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation",
+        "Terrain": "mostly low, flat plains; mountains in southwest and north"
+    },
+    "Cameroon": {
+        "Climate": "varies with terrain, from tropical along coast to semiarid and hot in north",
+        "Terrain": "diverse, with coastal plain in southwest, dissected plateau in center, mountains in west, plains in north"
+    },
+    "Canada": {
+        "Climate": "varies from temperate in south to subarctic and arctic in north",
+        "Terrain": "mostly plains with mountains in west, lowlands in southeast"
+    },
+    "Cayman Islands": {
+        "Climate": "tropical marine; warm, rainy summers (May to October) and cool, relatively dry winters (November to April)",
+        "Terrain": "low-lying limestone base surrounded by coral reefs" 
+    },
+    "Central African Republic": {
+        "Climate": "tropical; hot, dry winters; mild to hot, wet summers",
+        "Terrain": "vast, flat to rolling plateau; scattered hills in northeast and southwest"
+    },
+    "Chad": {
+        "Climate": "tropical in south, desert in north",
+        "Terrain": "broad, arid plains in center, desert in north, mountains in northwest, lowlands in south"
+    },
+    "Chile": {
+        "Climate": "temperate; desert in north; Mediterranean in central region; cool and damp in south",
+        "Terrain": "low coastal mountains, fertile central valley, rugged Andes in east"
+    },
+    "People's Republic of China": {
+        "Climate": "extremely diverse; tropical in south to subarctic in north",
+        "Terrain": "mostly mountains, high plateaus, deserts in west; plains, deltas, and hills in east"
+    },
+    "Christmas Island": {
+        "Climate": "tropical with a wet season (December to April) and dry season; heat and humidity moderated by trade winds",
+        "Terrain": "steep cliffs along coast rise abruptly to central plateau"
+    },
+    "Clipperton Island": {
+        "Climate": "tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)",
+        "Terrain": "coral atoll"
+    },
+    "Cocos (Keeling) Islands": {
+        "Climate": "tropical with high humidity, moderated by the southeast trade winds for about nine months of the year",
+        "Terrain": "flat, low-lying coral atolls"
+    },
+    "Colombia": {
+        "Climate": "tropical along coast and eastern plains; cooler in highlands",
+        "Terrain": "flat coastal lowlands, central highlands, high Andes Mountains, eastern lowland plains (Llanos)"
+    },
+    "Comoros": {
+        "Climate": "tropical marine; rainy season (November to May)",
+        "Terrain": "volcanic islands, interiors vary from steep mountains to low hills"
+    },
+    "Democractic Republic of Congo": {
+        "Climate": "tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler and wetter in eastern highlands; north of Equator - wet season (April to October), dry season (December to February); south of Equator - wet season (November to March), dry season (April to October)",
+        "Terrain": "vast central basin is a low-lying plateau; mountains in east"
+    },
+    "Republic of the Congo": {
+        "Climate": "tropical; rainy season (March to June); dry season (June to October); persistent high temperatures and humidity; particularly enervating climate astride the Equator",
+        "Terrain": "coastal plain, southern basin, central plateau, northern basin"
+    },
+    "Cook Islands": {
+        "Climate": "tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March",
+        "Terrain": "low coral atolls in north; volcanic, hilly islands in south"
+    },
+    "Coral Sea Islands": {
+        "Climate": "tropical",
+        "Terrain": "sand and coral reefs and islands (cays)"
+    },
+    "Costa Rica": {
+        "Climate": "tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands",
+        "Terrain": "coastal plains separated by rugged mountains including over 100 volcanic cones, of which several are major active volcanoes"
+    },
+    "Code d'Ivoire (Ivory Coast)": {
+        "Climate": "tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)",
+        "Terrain": "mostly flat to undulating plains; mountains in northwest"
+    },
+    "Croatia": {
+        "Climate": "Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast",
+        "Terrain": "geographically diverse; flat plains along Hungarian border, low mountains and highlands near Adriatic coastline and islands"
+    },
+    "Cuba": {
+        "Climate": "tropical; moderated by trade winds; dry season (November to April); rainy season (May to October)",
+        "Terrain": "mostly flat to rolling plains, with rugged hills and mountains in the southeast"
+    },
+    "Curacao": {
+        "Climate": "tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year",
+        "Terrain": "generally low, hilly terrain"
+    },
+    "Cyprus": {
+        "Climate": "temperate; Mediterranean with hot, dry summers and cool winters",
+        "Terrain": "central plain with mountains to north and south; scattered but significant plains along southern coast"
+    },
+    "Czechia": {
+        "Climate": "temperate; cool summers; cold, cloudy, humid winters",
+        "Terrain": "Bohemia in the west consists of rolling plains, hills, and plateaus surrounded by low mountains; Moravia in the east consists of very hilly country"
+    },
+    "Denmark": {
+        "Climate": "temperate; humid and overcast; mild, windy winters and cool summers",
+        "Terrain": "low and flat to gently rolling plains"
+    },
+    "Dhekelia": {
+        "Climate": "temperate; Mediterranean with hot, dry summers and cool winters",
+        "Terrain": 
+    },
+    "Djibouti": {
+        "Climate": "desert; torrid, dry",
+        "Terrain": "coastal plain and plateau separated by central mountains"
+    },
+    "Dominica": {
+        "Climate": "tropical; moderated by northeast trade winds; heavy rainfall",
+        "Terrain": "rugged mountains of volcanic origin"
+    },
+    "Dominican Republic": {
+        "Climate": "tropical maritime; little seasonal temperature variation; seasonal variation in rainfall",
+        "Terrain": "rugged highlands and mountains interspersed with fertile valleys"
+    },
+    "Ecuador": {
+        "Climate": "tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands",
+        "Terrain": "coastal plain (costa), inter-Andean central highlands (sierra), and flat to rolling eastern jungle (oriente)"
+    },
+    "Egypt":{
+        "Climate": "desert; hot, dry summers with moderate winters",
+        "Terrain": "vast desert plateau interrupted by Nile valley and delta"
+    },
+    "El Salvador": {
+        "Climate": "tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands",
+        "Terrain": "mostly mountains with narrow coastal belt and central plateau"
+    },
+    "Equatorial Guinea": {
+        "Climate": "tropical; always hot, humid",
+        "Terrain": "coastal plains rise to interior hills; islands are volcanic"
+    },
+    "Eritrea": {
+        "Climate": "hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands (up to 61 cm of rainfall annually, heaviest June to September); semiarid in western hills and lowlands",
+        "Terrain": "dominated by extension of Ethiopian north-south trending highlands, descending on the east to a coastal desert plain, on the northwest to hilly terrain and on the southwest to flat-to-rolling plains"
+    },
+    "Estonia": {
+        "Climate": "maritime; wet, moderate winters, cool summers",
+        "Terrain": "marshy, lowlands; flat in the north, hilly in the south"
+    },
+    "Eswatini": {
+        "Climate": "varies from tropical to near temperate",
+        "Terrain": "mostly mountains and hills; some moderately sloping plains"
+    },
+    "Ethiopia": {
+        "Climate": "tropical monsoon with wide topographic-induced variation",
+        "Terrain": "high plateau with central mountain range divided by Great Rift Valley"
+    },
+    "European Union": {
+        "Climate": "cold temperate; potentially subarctic in the north to temperate; mild wet winters; hot dry summers in the south",
+        "Terrain": "fairly flat along Baltic and Atlantic coasts; mountainous in the central and southern areas"
+    },
+    "Falkland Islands (Islas Malvinas)": {
+        "Climate": "cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; average annual rainfall is 60 cm in Stanley; occasional snow all year, except in January and February, but typically does not accumulate",
+        "Terrain": "rocky, hilly, mountainous with some boggy, undulating plains"
+    },
+    "Faroe Islands": {
+        "Climate": "mild winters, cool summers; usually overcast; foggy, windy",
+        "Terrain": "rugged, rocky, some low peaks; cliffs along most of coast"
+    },
+    "Fiji": {
+        "Climate": "tropical marine; only slight seasonal temperature variation",
+        "Terrain": "mostly mountains of volcanic origin"
+    },
+    "Finland": {
+        "Climate": "cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes",
+        "Terrain": "mostly low, flat to rolling plains interspersed with lakes and low hills"
+    },
+    "France (Metropolitan)": {
+        "Climate": "generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral",
+        "Terrain": "mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east;"
+    },
+    "French Polynesia": {
+        "Climate": "tropical, but moderate",
+        "Terrain": "mixture of rugged high islands and low islands with reefs"
+    },
+    "French Southern and Antarctic Lands": {
+        "Climate": 
+        
+    },
+    "Gabon": {
+        "Climate": "tropical; always hot, humid",
+        "Terrain": "narrow coastal plain; hilly interior; savanna in east and south"
+    },
+    "Gaza Strip": {
+        "Climate": "temperate, mild winters, dry and warm to hot summers",
+        "Terrain": "flat to rolling, sand- and dune-covered coastal plain"
+    },
+    "Georgia": {
+        "Climate": "warm and pleasant; Mediterranean-like on Black Sea coast",
+        "Terrain": "largely mountainous with Great Caucasus Mountains in the north and Lesser Caucasus Mountains in the south; Kolkhet'is Dablobi (Kolkhida Lowland) opens to the Black Sea in the west; Mtkvari River Basin in the east; fertile soils in river valley flood plains and foothills of Kolkhida Lowland"
+    },
+    "Germany": {
+        "Climate": "temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind",
+        "Terrain": "lowlands in north, uplands in center, Bavarian Alps in south"
+    },
+    "Ghana": {
+        "Climate": "tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north",
+        "Terrain": "mostly low plains with dissected plateau in south-central area"
+    },
+    "Gibraltar": {
+        "Climate": "Mediterranean with mild winters and warm summers",
+        "Terrain": "a narrow coastal lowland borders the Rock of Gibraltar"
+    },
+    "Greece": {
+        "Climate": "temperate; mild, wet winters; hot, dry summers",
+        "Terrain": "mountainous with ranges extending into the sea as peninsulas or chains of islands"
+    },
+    "Greenland": {
+        "Climate": "arctic to subarctic; cool summers, cold winters",
+        "Terrain": "flat to gradually sloping icecap covers all but a narrow, mountainous, barren, rocky coast"
+    },
+    "Granada": {
+        "Climate": "tropical; tempered by northeast trade winds",
+        "Terrain": "volcanic in origin with central mountains"
+    },
+    "Guam": {
+        "Climate": "tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation",
+        "Terrain": "volcanic origin, surrounded by coral reefs; relatively flat coralline limestone plateau (source of most fresh water), with steep coastal cliffs and narrow coastal plains in north, low hills in center, mountains in south"
+    },
+    "Guatemala": {
+        "Climate": "tropical; hot, humid in lowlands; cooler in highlands",
+        "Terrain": "two east-west trending mountain chains divide the country into three regions: the mountainous highlands, the Pacific coast south of mountains, and the vast northern Peten lowlands"
+    },
+    "Guernsey": {
+        "Climate": "temperate with mild winters and cool summers; about 50% of days are overcast",
+        "Terrain": "mostly flat with low hills in southwest"
+    },
+    "Guinea": {
+        "Climate": "generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds",
+        "Terrain": "generally flat coastal plain, hilly to mountainous interior"
+    },
+    "Guninea-Bissau": {
+        "Climate": "tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds",
+        "Terrain": "mostly low-lying coastal plain with a deeply indented estuarine coastline rising to savanna in east; numerous off-shore islands including the Arquipelago Dos Bijagos consisting of 18 main islands and many small islets"
+    },
+    "Guyana": {
+        "Climate": "tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)",
+        "Terrain": "mostly rolling highlands; low coastal plain; savanna in south"
+    },
+    "Haiti": {
+        "Climate": "tropical; semiarid where mountains in east cut off trade winds",
+        "Terrain": "mostly rough and mountainous"
+    },
+    "Heard Island": {
+        "Climate": "antarctic",
+        "Terrain": "80% ice-covered, bleak and mountainous, dominated by a large massif (Big Ben) and an active volcano (Mawson Peak)"
+    },
+    "McDonalds Islands" : {
+        "Climate": "antarctic",
+        "Terrain": "small and rocky"
+    },
+    "Holy See (Vatican City)" : {
+        "Climate": "temperate; mild, rainy winters (September to May) with hot, dry summers (May to September)",
+        "Terrain": "urban; low hill"
+    },
+    "Honduras": {
+        "Climate": "subtropical in lowlands, temperate in mountains",
+        "Terrain": "mostly mountains in interior, narrow coastal plains"
+    },
+    "Hong Kong SAR": {
+        "Climate": "subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall",
+        "Terrain": "hilly to mountainous with steep slopes; lowlands in north"
+    },
+    "Howland Island": {
+        "Climate": "equatorial; scant rainfall, constant wind, burning sun;",
+        "Terrain": "low and nearly flat sandy coral islands with narrow fringing reefs that have developed at the top of submerged volcanic mountains, which in most cases rise steeply from the ocean floor"
+    },
+    "Hungary": {
+        "Climate": "temperate; cold, cloudy, humid winters; warm summers",
+        "Terrain": "mostly flat to rolling plains; hills and low mountains on the Slovakian border"
+    },
+    "Iceland": {
+        "Climate": "temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers",
+        "Terrain": "mostly plateau interspersed with mountain peaks, icefields; coast deeply indented by bays and fiords"
+    },
+    "India": {
+        "Climate": "varies from tropical monsoon in south to temperate in north",
+        "Terrain": "upland plain (Deccan Plateau) in south, flat to rolling plain along the Ganges, deserts in west, Himalayas in north"
+    },
+    "Indonesia": {
+        "Climate": "tropical; hot, humid; more moderate in highlands",
+        "Terrain": "mostly coastal lowlands; larger islands have interior mountains"
+    },
+    "Iran": {
+        "Climate": "mostly arid or semiarid, subtropical along Caspian coast",
+        "Terrain": "rugged, mountainous rim; high, central basin with deserts, mountains; small, discontinuous plains along both coasts"
+    },
+    "Iraq": {
+        "Climate": "mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq",
+        "Terrain": "mostly broad plains; reedy marshes along Iranian border in south with large flooded areas; mountains along borders with Iran and Turkey"
+    },
+    "Ireland": {
+        "Climate": "temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time",
+        "Terrain": "mostly flat to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast"
+    },
+    "Isle of Man": {
+        "Climate": "temperate; cool summers and mild winters; overcast about a third of the time",
+        "Terrain": "hills in north and south bisected by central valley"
+    },
+    "Israel" : {
+        "Climate": "temperate; hot and dry in southern and eastern desert areas",
+        "Terrain": "Negev desert in the south; low coastal plain; central mountains; Jordan Rift Valley"
+    },
+    "Italy" : {
+        "Climate": "predominantly Mediterranean; alpine in far north; hot, dry in south",
+        "Terrain": "mostly rugged and mountainous; some plains, coastal lowlands"
+    },
+    "Jamaica": {
+        "Climate": "tropical; hot, humid; temperate interior",
+        "Terrain": "mostly mountains, with narrow, discontinuous coastal plain"
+    },
+    "Jan Mayen": {
+        "Climate": "arctic maritime with frequent storms and persistent fog",
+        "Terrain": "volcanic island, partly covered by glaciers"
+    },
+    "Japan": {
+        "Climate": "varies from tropical in south to cool temperate in north",
+        "Terrain": "mostly rugged and mountainous"
+    },
+    "Jarvis Island": {
+        "Climate": "equatorial; scant rainfall, constant wind, burning sun;",
+        "Terrain": "low and nearly flat sandy coral islands with narrow fringing reefs that have developed at the top of submerged volcanic mountains, which in most cases rise steeply from the ocean floor"
+    },
+    "Jersey": {
+        "Climate": "temperate; mild winters and cool summers",
+        "Terrain": "gently rolling plain with low, rugged hills along north coast"
+    },
+    "Johnston Atoll"
+
+    
+
+    
+
+
+
+
+
+
+
+
+    }
+
+
+    }
+
+    }
+
+
+
+
+
+
+
+
+
+    }
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "Itu Aba Island": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1956,
+        "by": "Taiwan"
+      },
+      "international_names": {
+        "U.S.": "Itu Aba Island",
+        "China": "Taiping Dao, 太平岛",
+        "Philippines": "Ligao Island",
+        "Taiwan": "Taiping Island, 太平島",
+        "Vietnam": "Đảo Ba Bình"
+      },
+      "current_status": {
+        "occupied_by": "Taiwan",
+        "legal_status": "Rock"
+      },
+      "geographic_details": {
+        "coordinates": "10° 22' 35\" N, 114° 21' 55\" E",
+        "reclamation_area": "8 acres"
+      }
+    }
+  }
+  

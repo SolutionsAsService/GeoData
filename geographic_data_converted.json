@@ -1,0 +1,492 @@
+[
+    {
+        "Country":"Bulgaria",
+        "Agricultural land":46.9,
+        "Arable Land":29.9,
+        "Permanent Crops":1.5,
+        "Permanent Pasture":15.5,
+        "Forest":36.7,
+        "other":16.4,
+        "Irrigated Land":"987 sq km"
+    },
+    {
+        "Country":"Burkina Faso",
+        "Agricultural land":44.2,
+        "Arable Land":22.0,
+        "Permanent Crops":37.0,
+        "Permanent Pasture":21.93,
+        "Forest":19.3,
+        "other":36.5,
+        "Irrigated Land":"550 sq km"
+    },
+    {
+        "Country":"Burma",
+        "Agricultural land":19.2,
+        "Arable Land":16.5,
+        "Permanent Crops":2.2,
+        "Permanent Pasture":0.5,
+        "Forest":48.2,
+        "other":32.6,
+        "Irrigated Land":"17,140 sq km"
+    },
+    {
+        "Country":"Burundi",
+        "Agricultural land":73.3,
+        "Arable Land":38.9,
+        "Permanent Crops":15.6,
+        "Permanent Pasture":18.8,
+        "Forest":6.6,
+        "other":20.1,
+        "Irrigated Land":"230 sq km"
+    },
+    {
+        "Country":"Cabo Verde",
+        "Agricultural land":18.6,
+        "Arable Land":11.7,
+        "Permanent Crops":0.7,
+        "Permanent Pasture":6.2,
+        "Forest":21.0,
+        "other":60.4,
+        "Irrigated Land":"35 sq km"
+    },
+    {
+        "Country":"Cameroon",
+        "Agricultural land":20.6,
+        "Arable Land":13.1,
+        "Permanent Crops":3.3,
+        "Permanent Pasture":4.2,
+        "Forest":41.7,
+        "other":37.7,
+        "Irrigated Land":"290 sq km"
+    },
+    {
+        "Country":"Cayman Islands",
+        "Agricultural land":11.2,
+        "Arable Land":0.8,
+        "Permanent Crops":2.1,
+        "Permanent Pasture":8.3,
+        "Forest":52.9,
+        "other":35.9,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Cental African Republic",
+        "Agricultural land":8.1,
+        "Arable Land":2.9,
+        "Permanent Crops":0.1,
+        "Permanent Pasture":5.1,
+        "Forest":36.2,
+        "other":55.7,
+        "Irrigated Land":"10 sq km"
+    },
+    {
+        "Country":"Chad",
+        "Agricultural land":39.6,
+        "Arable Land":3.9,
+        "Permanent Crops":0.0,
+        "Permanent Pasture":35.7,
+        "Forest":9.1,
+        "other":51.3,
+        "Irrigated Land":"300 sq km"
+    },
+    {
+        "Country":"Chile",
+        "Agricultural land":21.1,
+        "Arable Land":1.7,
+        "Permanent Crops":0.6,
+        "Permanent Pasture":18.8,
+        "Forest":21.9,
+        "other":57.0,
+        "Irrigated Land":"11,100 sq km"
+    },
+    {
+        "Country":"Peoples Republic of China",
+        "Agricultural land":54.7,
+        "Arable Land":11.3,
+        "Permanent Crops":1.6,
+        "Permanent Pasture":41.8,
+        "Forest":22.3,
+        "other":23.0,
+        "Irrigated Land":"690,070 sq km"
+    },
+    {
+        "Country":"Christmas Island",
+        "Agricultural land":0.0,
+        "Arable Land":null,
+        "Permanent Crops":null,
+        "Permanent Pasture":null,
+        "Forest":null,
+        "other":100.0,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Clipperton Island",
+        "Agricultural land":0.0,
+        "Arable Land":null,
+        "Permanent Crops":null,
+        "Permanent Pasture":null,
+        "Forest":0.0,
+        "other":100.0,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Cocos (Keeling) islands",
+        "Agricultural land":0.0,
+        "Arable Land":null,
+        "Permanent Crops":null,
+        "Permanent Pasture":null,
+        "Forest":0.0,
+        "other":100.0,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Colombia",
+        "Agricultural land":37.5,
+        "Arable Land":1.4,
+        "Permanent Crops":1.6,
+        "Permanent Pasture":34.5,
+        "Forest":54.4,
+        "other":8.1,
+        "Irrigated Land":"10,900 sq km"
+    },
+    {
+        "Country":"Comoros",
+        "Agricultural land":84.4,
+        "Arable Land":46.7,
+        "Permanent Crops":29.6,
+        "Permanent Pasture":8.1,
+        "Forest":1.4,
+        "other":14.2,
+        "Irrigated Land":"1.3 sq km"
+    },
+    {
+        "Country":"Democratic Rep. of Congo",
+        "Agricultural land":11.4,
+        "Arable Land":3.1,
+        "Permanent Crops":0.3,
+        "Permanent Pasture":8.0,
+        "Forest":67.9,
+        "other":20.7,
+        "Irrigated Land":"110 sq km"
+    },
+    {
+        "Country":"Republic of Congo",
+        "Agricultural land":31.1,
+        "Arable Land":1.6,
+        "Permanent Crops":0.2,
+        "Permanent Pasture":29.3,
+        "Forest":65.6,
+        "other":3.3,
+        "Irrigated Land":"20 sq km"
+    },
+    {
+        "Country":"Cook Islands",
+        "Agricultural land":8.4,
+        "Arable Land":4.2,
+        "Permanent Crops":4.2,
+        "Permanent Pasture":0.0,
+        "Forest":64.6,
+        "other":27.0,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Coral Sea Islands",
+        "Agricultural land":0.0,
+        "Arable Land":null,
+        "Permanent Crops":null,
+        "Permanent Pasture":null,
+        "Forest":null,
+        "other":100.0,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Costa Rica",
+        "Agricultural land":37.1,
+        "Arable Land":4.9,
+        "Permanent Crops":6.7,
+        "Permanent Pasture":25.5,
+        "Forest":51.5,
+        "other":11.4,
+        "Irrigated Land":"1,015 sq km"
+    },
+    {
+        "Country":"Cote d'Ivoire (Ivory Coast)",
+        "Agricultural land":64.8,
+        "Arable Land":9.1,
+        "Permanent Crops":14.2,
+        "Permanent Pasture":41.5,
+        "Forest":32.7,
+        "other":2.5,
+        "Irrigated Land":"730 sq km"
+    },
+    {
+        "Country":"Croatia",
+        "Agricultural land":23.7,
+        "Arable Land":16.0,
+        "Permanent Crops":1.5,
+        "Permanent Pasture":6.2,
+        "Forest":34.4,
+        "other":41.9,
+        "Irrigated Land":"171 sq km"
+    },
+    {
+        "Country":"Cuba",
+        "Agricultural land":60.3,
+        "Arable Land":33.8,
+        "Permanent Crops":3.6,
+        "Permanent Pasture":22.9,
+        "Forest":27.3,
+        "other":12.4,
+        "Irrigated Land":"8,700 sq km"
+    },
+    {
+        "Country":"Curacao",
+        "Agricultural land":10.0,
+        "Arable Land":10.0,
+        "Permanent Crops":null,
+        "Permanent Pasture":null,
+        "Forest":null,
+        "other":90.0,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Cyprus",
+        "Agricultural land":13.4,
+        "Arable Land":9.8,
+        "Permanent Crops":3.2,
+        "Permanent Pasture":0.4,
+        "Forest":18.8,
+        "other":67.8,
+        "Irrigated Land":"268 sq km"
+    },
+    {
+        "Country":"Czechia",
+        "Agricultural land":54.8,
+        "Arable Land":41.0,
+        "Permanent Crops":1.0,
+        "Permanent Pasture":12.8,
+        "Forest":34.4,
+        "other":10.8,
+        "Irrigated Land":"220 sq km"
+    },
+    {
+        "Country":"Denmark",
+        "Agricultural land":63.4,
+        "Arable Land":58.9,
+        "Permanent Crops":0.1,
+        "Permanent Pasture":4.4,
+        "Forest":12.9,
+        "other":23.7,
+        "Irrigated Land":"2,360 sq km"
+    },
+    {
+        "Country":"Djibouti",
+        "Agricultural land":73.4,
+        "Arable Land":0.1,
+        "Permanent Crops":0.0,
+        "Permanent Pasture":73.3,
+        "Forest":0.2,
+        "other":26.4,
+        "Irrigated Land":"10 sq km"
+    },
+    {
+        "Country":"Dominica",
+        "Agricultural land":34.7,
+        "Arable Land":8.0,
+        "Permanent Crops":24.0,
+        "Permanent Pasture":2.7,
+        "Forest":59.2,
+        "other":6.1,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Dominican Republic",
+        "Agricultural land":51.5,
+        "Arable Land":16.6,
+        "Permanent Crops":10.1,
+        "Permanent Pasture":24.8,
+        "Forest":40.8,
+        "other":7.7,
+        "Irrigated Land":"2,980 sq km"
+    },
+    {
+        "Country":"Ecuador",
+        "Agricultural land":29.7,
+        "Arable Land":4.7,
+        "Permanent Crops":5.6,
+        "Permanent Pasture":19.4,
+        "Forest":38.9,
+        "other":31.4,
+        "Irrigated Land":"10,000 sq km"
+    },
+    {
+        "Country":"Egypt",
+        "Agricultural land":3.6,
+        "Arable Land":2.8,
+        "Permanent Crops":0.8,
+        "Permanent Pasture":0.0,
+        "Forest":0.1,
+        "other":96.3,
+        "Irrigated Land":"36,500 sq km"
+    },
+    {
+        "Country":"El Salvador",
+        "Agricultural land":null,
+        "Arable Land":null,
+        "Permanent Crops":null,
+        "Permanent Pasture":null,
+        "Forest":null,
+        "other":null,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Equatorial Guinea",
+        "Agricultural land":10.1,
+        "Arable Land":4.3,
+        "Permanent Crops":2.1,
+        "Permanent Pasture":3.7,
+        "Forest":57.5,
+        "other":32.4,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Eritrea",
+        "Agricultural land":75.1,
+        "Arable Land":6.8,
+        "Permanent Crops":0.0,
+        "Permanent Pasture":68.3,
+        "Forest":15.1,
+        "other":9.8,
+        "Irrigated Land":"210 sq km"
+    },
+    {
+        "Country":"Estonia",
+        "Agricultural land":22.2,
+        "Arable Land":14.9,
+        "Permanent Crops":0.1,
+        "Permanent Pasture":7.2,
+        "Forest":52.1,
+        "other":25.7,
+        "Irrigated Land":"20 sq km"
+    },
+    {
+        "Country":"Eswatini",
+        "Agricultural land":68.3,
+        "Arable Land":9.8,
+        "Permanent Crops":0.8,
+        "Permanent Pasture":57.7,
+        "Forest":31.7,
+        "other":0.0,
+        "Irrigated Land":"500 sq km"
+    },
+    {
+        "Country":"Ethiopia",
+        "Agricultural land":36.3,
+        "Arable Land":15.2,
+        "Permanent Crops":1.1,
+        "Permanent Pasture":20.0,
+        "Forest":12.2,
+        "other":51.5,
+        "Irrigated Land":"1,813 sq km"
+    },
+    {
+        "Country":"European Union",
+        "Agricultural land":null,
+        "Arable Land":null,
+        "Permanent Crops":null,
+        "Permanent Pasture":null,
+        "Forest":null,
+        "other":null,
+        "Irrigated Land":"154,539.82 sq km"
+    },
+    {
+        "Country":"Falkland Islands",
+        "Agricultural land":92.4,
+        "Arable Land":0.0,
+        "Permanent Crops":0.0,
+        "Permanent Pasture":92.4,
+        "Forest":0.0,
+        "other":7.6,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Faroe Islands",
+        "Agricultural land":2.1,
+        "Arable Land":2.1,
+        "Permanent Crops":0.0,
+        "Permanent Pasture":0.0,
+        "Forest":0.1,
+        "other":97.8,
+        "Irrigated Land":null
+    },
+    {
+        "Country":"Fiji",
+        "Agricultural land":23.3,
+        "Arable Land":9.0,
+        "Permanent Crops":4.7,
+        "Permanent Pasture":9.6,
+        "Forest":55.7,
+        "other":21.0,
+        "Irrigated Land":"40 sq km"
+    },
+    {
+        "Country":"Finland",
+        "Agricultural land":7.5,
+        "Arable Land":7.4,
+        "Permanent Crops":0.0,
+        "Permanent Pasture":0.1,
+        "Forest":72.9,
+        "other":19.6,
+        "Irrigated Land":"80 sq km"
+    },
+    {
+        "Country":"France",
+        "Agricultural land":52.7,
+        "Arable Land":33.4,
+        "Permanent Crops":1.8,
+        "Permanent Pasture":17.5,
+        "Forest":29.2,
+        "other":18.1,
+        "Irrigated Land":"14,236 sq km"
+    },
+    {
+        "Country":"French Polynesia",
+        "Agricultural land":12.5,
+        "Arable Land":0.7,
+        "Permanent Crops":6.3,
+        "Permanent Pasture":5.5,
+        "Forest":43.7,
+        "other":43.8,
+        "Irrigated Land":"10 sq km"
+    },
+    {
+        "Country":"French Southern\/Antarctic",
+        "Agricultural land":null,
+        "Arable Land":null,
+        "Permanent Crops":null,
+        "Permanent Pasture":null,
+        "Forest":null,
+        "other":100.0,
+        "Irrigated Land":0.0
+    },
+    {
+        "Country":"Gabon",
+        "Agricultural land":19.0,
+        "Arable Land":1.2,
+        "Permanent Crops":0.6,
+        "Permanent Pasture":17.2,
+        "Forest":81.0,
+        "other":0.0,
+        "Irrigated Land":"40 sq km"
+    },
+    {
+        "Country":"The Gambia",
+        "Agricultural land":56.1,
+        "Arable Land":41.0,
+        "Permanent Crops":0.5,
+        "Permanent Pasture":14.6,
+        "Forest":43.9,
+        "other":0.0,
+        "Irrigated Land":"50 sq km"
+    }
+]
