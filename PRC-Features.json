@@ -1,0 +1,438 @@
+{
+  "Johnson Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1988,
+        "by": "China"
+      },
+      "international_names": {
+        "U.S.": "Johnson Reef",
+        "China": "Chiguo Jiao, 赤瓜礁",
+        "Taiwan": "Chiguo Reef, 赤瓜礁",
+        "Malaysia": "Mabini Reef",
+        "Vietnam": "Đá Gạc Ma"
+      },
+      "current_status": {
+        "occupied_by": "China",
+        "legal_status": "Rock"
+      },
+      "geographic_details": {
+        "coordinates": "9° 43' 1\" N, 114° 16' 54\" E",
+        "reclamation_area": "27 acres"
+      }
+    },
+  "Mischief Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1994,
+        "by": "China"
+      },
+      "international_names": {
+        "U.S.": "Mischief Reef",
+        "China": "Meiji Jiao, 美济礁",
+        "Philippines": "Panganiban Reef",
+        "Taiwan": "Meiji Reef, 美濟礁",
+        "Vietnam": "Đá Vành Khăn"
+      },
+      "current_status": {
+        "occupied_by": "China",
+        "legal_status": "Low-tide elevation"
+      },
+      "geographic_details": {
+        "coordinates": "09° 54' 00\" N, 115° 32' 00\" E",
+        "reclamation_area": "1,379 acres"
+      }
+    },
+  "Subi Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1988,
+        "by": "China"
+      },
+      "international_names": {
+        "U.S.": "Subi Reef",
+        "China": "Zhubi Jiao, 渚碧礁",
+        "Philippines": "Zamora Reef",
+        "Taiwan": "Zhubi Reef, 渚碧礁",
+        "Vietnam": "Đá Su Bi"
+      },
+      "current_status": {
+        "occupied_by": "China",
+        "legal_status": "Low-tide elevation"
+      },
+      "geographic_details": {
+        "coordinates": "10° 55' 25\" N, 114° 5' 5\" E",
+        "reclamation_area": "976 acres"
+      }
+    },
+  "Antelope Reef": {
+      "location": "Paracel Islands",
+      "possession": {
+        "year": "unknown",
+        "by": "China"
+      },
+      "international_names": {
+        "U.S.": "Antelope Reef",
+        "China": "Lingyang Jiao, 羚羊礁",
+        "Taiwan": "Lingyang Reef, 羚羊礁",
+        "Vietnam": "Đá Hải Sâm"
+      },
+      "current_status": {
+        "occupied_by": "China",
+        "legal_status": "Rock/Island"
+      },
+      "geographic_details": {
+        "coordinates": "16° 27' 45\" N, 111° 35' 20\" E"
+      }   
+    },
+    "Bombay Reef": {
+        "location": "Paracel Islands",
+        "possession": {
+          "by": "China"
+        },
+        "international_names": {
+          "U.S.": "Bombay Reef",
+          "China": "Langhua Jiao, 浪花礁",
+          "Taiwan": "Pengbo Reef, 蓬勃礁",
+          "Vietnam": "Đá Bông Bay"
+        },
+        "current_status": {
+          "occupied_by": "China",
+          "legal_status": "Rock/Island"
+        },
+        "geographic_details": {
+          "coordinates": "16° 2' 27\" N, 112° 30' 41\" E"
+        }
+      },
+      "Drummond Island": {
+        "location": "Paracel Islands",
+        "possession": {
+          "year": 1974,
+          "by": "China"
+        },
+        "international_names": {
+          "U.S.": "Drummond Island",
+          "China": "Jinqing Dao, 晋卿岛",
+          "Taiwan": "Jinqing Island, 晉卿島",
+          "Vietnam": "Đảo Duy Mộng"
+        },
+        "current_status": {
+          "occupied_by": "China",
+          "legal_status": "Rock/Island"
+        },
+        "geographic_details": {
+          "coordinates": "16° 27' 46\"N, 111° 44' 29\" E"
+        }
+      },
+      "Duncan Islands": {
+        "location": "Paracel Islands",
+        "possession": {
+          "year": 1974,
+          "by": "China"
+        },
+        "international_names": {
+          "U.S.": "Duncan Islands",
+          "China": "Chenhang Dao, 琛航岛",
+          "Taiwan": "Chenhang Island, 琛航島",
+          "Vietnam": "Đảo Quang Hòa"
+        },
+        "current_status": {
+          "occupied_by": "China",
+          "legal_status": "Rock/Island"
+        },
+        "geographic_details": {
+          "coordinates": "16° 26' 59\" N, 111° 42' 27\" E"
+        }
+      },
+      "Lincoln Island": {
+        "location": "Paracel Islands",
+        "international_names": {
+          "U.S.": "Lincoln Island",
+          "China": "Dong Dao, 东岛",
+          "Taiwan": "Hewu Island, 和五島",
+          "Vietnam": "Đảo Linh Côn"
+        },
+        "current_status": {
+          "occupied_by": "China",
+          "legal_status": "Rock/Island"
+        },
+        "geographic_details": {
+          "coordinates": "16° 40' 0\" N, 112° 43' 47\" E"
+        }
+      },
+      "Middle Island": {
+        "location": "Paracel Islands",
+        "international_names": {
+          "U.S.": "Middle Island",
+          "China": "Zhong Dao, 中岛",
+          "Taiwan": "Zhong Island, 中島",
+          "Vietnam": "Đảo Trung"
+        },
+        "current_status": {
+          "occupied_by": "China",
+          "legal_status": "Rock/Island"
+        },
+        "geographic_details": {
+          "coordinates": "16° 57' 17\" N, 112° 19' 28\" E"
+        }
+      },
+      "Money Island": {
+        "location": "Paracel Islands",
+        "possession": {
+          "year": 1974,
+          "by": "China"
+        },
+        "international_names": {
+          "U.S.": "Money Island",
+          "China": "Jinyin Dao, 金银岛",
+          "Taiwan": "Jinyin Island, 金銀島",
+          "Vietnam": "Đảo Quang Ảnh"
+        },
+        "current_status": {
+          "occupied_by": "China",
+          "legal_status": "Rock/Island"
+        },
+        "geographic_details": {
+          "coordinates": "16° 26' 52\" N, 111° 30' 29\" E"
+        }
+      },
+      "North Island": {
+        "location": "Paracel Islands",
+        "international_names": {
+          "U.S.": "North Island",
+          "China": "Bei Dao, 北岛",
+          "Taiwan": "Bei Island, 北島",
+          "Vietnam": "Đảo Bắc"
+        },
+        "current_status": {
+          "occupied_by": "China",
+          "legal_status": "Rock/Island"
+        },
+        "geographic_details": {
+          "coordinates": "16° 57' 49\" N, 112° 18' 37\" E"
+        }
+      },
+      "North Reef": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "North Reef",
+            "China": "Bei Jiao, 北礁",
+            "Taiwan": "Bei Reef, 北礁",
+            "Vietnam": "Đá Bắc"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "17° 05' 30\" N, 111° 30' 00\" E"
+          }
+        },
+        "Observation Bank": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "Observation Bank",
+            "China": "Yin Yu, 银屿",
+            "Taiwan": "Senping Tan, 森屏灘",
+            "Vietnam": "Bãi Xà Cừ"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 34' 46” N, 111° 42' 15\" E"
+          }
+        },
+        "Pattle Island": {
+          "location": "Paracel Islands",
+          "possession": {
+            "year": 1974,
+            "by": "China"
+          },
+          "international_names": {
+            "U.S.": "Pattle Island",
+            "China": "Shanhu Dao, 珊瑚岛",
+            "Taiwan": "Shanhu Island, 珊瑚島",
+            "Vietnam": "Đảo Hoàng Sa"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 32' 3\" N, 111° 36' 26\" E"
+          }
+        },
+        "Quanfu Island": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "Quanfu Island",
+            "China": "Quanfu Dao, 全富岛",
+            "Taiwan": "Quanfu Island, 全富島",
+            "Vietnam": "Đảo Ốc Hoa"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 34' 30\"N, 111° 40' 25\"E"
+          }
+        },
+        "Robert Island": {
+          "location": "Paracel Islands",
+          "possession": {
+            "year": 1974,
+            "by": "China"
+          },
+          "international_names": {
+            "U.S.": "Robert Island",
+            "China": "Ganquan Dao, 甘泉岛",
+            "Taiwan": "Ganquan Island, 甘泉島",
+            "Vietnam": "Đảo Hữu Nhật"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 30' 20\"N, 111° 35' 8\"E"
+          }
+        },
+        "South Island": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "South Island",
+            "China": "Nan Dao, 南岛",
+            "Taiwan": "Nan Island, 南島",
+            "Vietnam": "Đảo Nam"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 56' 49\" N, 112° 20' 2\" E"
+          }
+        },
+        "South Sand": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "South Sand",
+            "China": "Nan Shazhou, 南沙洲",
+            "Taiwan": "Nan Sand Bar, 南沙洲",
+            "Vietnam": "Cồn Cát Nam"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16°55'47\"N, 112°20'44\"E"
+          }
+        },
+        "Tree Island": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "Tree Island",
+            "China": "Zhaoshu Dao, 赵述岛",
+            "Taiwan": "Zhaoshu Island, 趙述島",
+            "Vietnam": "Đảo Cây"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 58' 46\" N, 112° 16' 15\" E"
+          }
+        },
+        "Triton Island": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "Triton Island",
+            "China": "Zhongjian Dao, 中建岛",
+            "Taiwan": "Zhongjian Island, 中建島",
+            "Vietnam": "Đảo Tri Tôn"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "15° 47' 3\" N, 111° 12' 11\" E"
+          }
+        },
+        "West Sand": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "West Sand",
+            "China": "Xi Shazhou, 西沙洲",
+            "Taiwan": "Xi Sand Bar, 西沙洲",
+            "Vietnam": "Cồn Cát Tây"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 58' 39\" N, 112° 12' 43\" E"
+          }
+        },
+        "Woody Island": {
+          "location": "Paracel Islands",
+          "possession": {
+            "year": 1955,
+            "by": "China"
+          },
+          "international_names": {
+            "U.S.": "Woody Island",
+            "China": "Yongxing Dao, 永兴岛",
+            "Taiwan": "Yongxing Island, 永興島",
+            "Vietnam": "Đảo Phú Lâm"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 50' 4\" N, 112° 20' 23\" E"
+          }
+        },
+        "Yagong Island": {
+          "location": "Paracel Islands",
+          "international_names": {
+            "U.S.": "Yagong Island",
+            "China": "Yagong Dao, 鸭公岛",
+            "Taiwan": "Yagong Island, 鸭公島",
+            "Vietnam": "Đảo Ba Ba"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock/Island"
+          },
+          "geographic_details": {
+            "coordinates": "16° 33' 59\" N, 111° 41' 11\" E"
+          }
+        },
+        "Scarborough Shoal": {
+          "location": "South China Sea",
+          "international_names": {
+            "U.S.": "Scarborough Shoal",
+            "China": "Huangyan Dao, 黄岩岛",
+            "Philippines": "Bajo de Masinloc/Panatag Shoal",
+            "Taiwan": "Huangyan Dao, 黃岩島"
+          },
+          "current_status": {
+            "occupied_by": "China",
+            "legal_status": "Rock"
+          },
+          "geographic_details": {
+            "coordinates": "15° 8' 55\" N, 117° 45' 50\" E"
+          }
+        }
+      }
+       
+    
+  
