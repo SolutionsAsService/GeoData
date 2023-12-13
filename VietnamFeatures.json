@@ -1,0 +1,555 @@
+{
+    "Alison Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1988,
+        "by": "Vietnam"
+      },
+      "international_names": {
+        "U.S.": "Alison Reef",
+        "China": "Liumen Jiao, 六门礁",
+        "Philippines": "De Jesus Reef",
+        "Vietnam": "Bãi Tốc Tan"
+      },
+      "current_status": {
+        "occupied_by": "Vietnam",
+        "legal_status": "Low-tide elevation"
+      },
+      "geographic_details": {
+        "coordinates": "8° 48' 6\" N, 113° 59' 18\" E"
+      }
+    },
+    "Amboyna Cay": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1978,
+        "by": "Vietnam"
+      },
+      "international_names": {
+        "U.S.": "Amboyna Cay",
+        "China": "Anbo Shazhou, 安波沙洲",
+        "Philippines": "Kalantiyaw Cay",
+        "Taiwan": "Anbo Shazhou, 安波沙洲",
+        "Malaysia": "Pulau Kecil Amboyna",
+        "Vietnam": "Đảo An Bang"
+      },
+      "current_status": {
+        "occupied_by": "Vietnam",
+        "legal_status": "Rock"
+      },
+      "geographic_details": {
+        "coordinates": "7° 53' 30\" N, 112° 55' 16\" E"
+      }
+    },
+    "Barque Canada Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1987,
+        "by": "Vietnam"
+      },
+      "international_names": {
+        "U.S.": "Barque Canada Reef",
+        "China": "Bai Jiao, 柏礁",
+        "Philippines": "Mascardo Reef",
+        "Malaysia": "Terumbu Perahu",
+        "Vietnam": "Bãi Thuyền Chài"
+      },
+      "current_status": {
+        "occupied_by": "Vietnam",
+        "legal_status": "Rock"
+      },
+      "geographic_details": {
+        "coordinates": "08° 10' 30\" N, 113° 18' 45\" E"
+      }
+    },
+    "Central Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1978,
+        "by": "Vietnam"
+      },
+      "international_names": {
+        "U.S.": "Central Reef",
+        "China": "Zhong Jiao, 中礁",
+        "Philippines": "Gitnang Quezon",
+        "Taiwan": "Zhong Jiao, 中礁",
+        "Malaysia": "Terumbu Gitna",
+        "Vietnam": "Đảo Trường Sa Đông"
+      },
+      "current_status": {
+        "occupied_by": "Vietnam",
+        "legal_status": "Rock"
+      },
+      "geographic_details": {
+        "coordinates": "8° 55' 51\" N, 112° 21' 11\" E",
+        "reclamation_area": "4.13 acres"
+      }
+    },
+    "Collins Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1988,
+        "by": "Vietnam"
+      },
+      "international_names": {
+        "U.S.": "Collins Reef",
+        "China": "Guihan Jiao, 鬼喊礁",
+        "Philippines": "Roxas Reef",
+        "Vietnam": "Đá Cô Lin"
+      },
+      "current_status": {
+        "occupied_by": "Vietnam",
+        "legal_status": "Rock"
+      },
+      "geographic_details": {
+        "coordinates": "9° 46' 9\" N, 114° 15' 23\" E"
+      }
+    },
+    "Cornwallis South Reef": {
+      "location": "Spratly Islands",
+      "possession": {
+        "year": 1988,
+        "by": "Vietnam"
+      },
+      "international_names": {
+        "U.S.": "Cornwallis South Reef",
+        "China": "Nanhua Jiao, 南华礁",
+        "Philippines": "Osmeña Reef",
+        "Taiwan": "Nanhua Jiao, 南華礁",
+        "Vietnam": "Đá Núi Le"
+      },
+      "current_status": {
+        "occupied_by": "Vietnam",
+        "legal_status": "Low-tide elevation"
+      },
+      "geographic_details": {
+        "coordinates": "8° 42' 44\" N, 114° 11' 1\" E",
+        "reclamation_area": "4.17 acres"
+      }
+    },      
+    "Discovery Great Reef": {
+        "location": "Spratly Islands",
+        "possession": {
+            "year": 1988,
+            "by": "Vietnam"
+          },
+          "international_names": {
+            "U.S.": "Discovery Great Reef",
+            "China": "Daxian Jiao, 大现礁",
+            "Philippines": "Paredes Reef",
+            "Taiwan": "Daxian Jiao, 大現礁",
+            "Malaysia": "Terumbu Paredes",
+            "Vietnam": "Đá Lớn"
+          },
+          "current_status": {
+            "occupied_by": "Vietnam",
+            "legal_status": "Rock"
+          },
+          "geographic_details": {
+            "coordinates": "10° 03' 00\" N, 113° 51' 00\" E"
+          }
+        },
+        "East Reef": {
+          "location": "Spratly Islands",
+          "possession": {
+            "year": 1988,
+            "by": "Vietnam"
+          },
+          "international_names": {
+            "U.S.": "East Reef",
+            "China": "Dong Jiao, 东礁",
+            "Philippines": "Silangang Quezon Reef",
+            "Taiwan": "Dong Jiao, 東礁",
+            "Malaysia": "Terumbu Silangan",
+            "Vietnam": "Đá Đông"
+          },
+          "current_status": {
+            "occupied_by": "Vietnam",
+            "legal_status": "Rock"
+          },
+          "geographic_details": {
+            "coordinates": "08° 49' 30\" N, 112° 36' 00\" E"
+          }
+        },
+        "Grierson Reef": {
+          "location": "Spratly Islands",
+          "possession": {
+            "year": 1978,
+            "by": "Vietnam"
+          },
+          "international_names": {
+            "U.S.": "Grierson Reef",
+            "China": "Ranqing Shazhou, 染青沙洲",
+            "Philippines": "Julian Felipe Reef",
+            "Vietnam": "Đảo Sinh Tồn Đông"
+          },
+          "current_status": {
+            "occupied_by": "Vietnam",
+            "legal_status": "Rock"
+          },
+          "geographic_details": {
+            "coordinates": "9° 54' 8\" N, 114° 33' 50\" E"
+          }
+        },
+        "Ladd Reef": {
+          "location": "Spratly Islands",
+          "possession": {
+            "year": 1988,
+            "by": "Vietnam"
+          },
+          "international_names": {
+            "U.S.": "Ladd Reef",
+            "China": "Riji Jiao, 日积礁",
+            "Taiwan": "Riji Jiao, 日積礁",
+            "Vietnam": "Đá Lát"
+          },
+          "current_status": {
+            "occupied_by": "Vietnam",
+            "legal_status": "Low-tide elevation"
+          },
+          "geographic_details": {
+            "coordinates": "8° 39' 56\" N, 111° 40' 28\" E"
+          }
+        },
+        "Lansdowne Reef": {
+          "location": "Spratly Islands",
+          "possession": {
+            "year": 1988,
+            "by": "Vietnam"
+          },
+          "international_names": {
+            "U.S.": "Lansdowne Reef",
+            "China": "Qiong Jiao, 琼礁",
+            "Philippines": "Pagkakaisa Reef",
+            "Taiwan": "Qiong Jiao, 瓊礁",
+            "Vietnam": "Đá Len Đao"
+          },
+          "current_status": {
+            "occupied_by": "Vietnam",
+            "legal_status": "Rock"
+          },
+          "geographic_details": {
+            "coordinates": "9° 46' 46\" N, 114° 22' 11\" E",
+            "reclamation_area": "0.24 acres"
+          }
+        },
+        "Namyit Island": {
+          "location": "Spratly Islands",
+          "possession": {
+            "year": 1973,
+            "by": "Vietnam"
+          },
+          "international_names": {
+            "U.S.": "Namyit Island",
+            "China": "Hongxiu Dao, 鸿庥岛",
+            "Philippines": "Binago Island",
+            "Taiwan": "Hongxiu Dao, 鴻庥島",
+            "Vietnam": "Đảo Nam Yết"
+          },
+          "current_status": {
+            "occupied_by": "Vietnam",
+            "legal_status": "Rock"
+          },
+          "geographic_details": {
+            "coordinates": "10° 10' 46\" N, 114° 21' 59\" E"
+          }
+        },
+        "Pearson Reef": {
+          "location": "Spratly Islands",
+          "possession": {
+            "year": 1978,
+            "by": "Vietnam"
+          },
+          "international_names": {
+            "U.S.": "Pearson Reef",
+            "China": "Bisheng Jiao, 毕生礁",
+            "Philippines": "Hizon Reef",
+            "Taiwan": "Bisheng Dao, 畢生島",
+            "Vietnam": "Đảo Phan Vinh"
+          },
+          "current_status": {
+            "occupied_by": "Pearson Reef",
+            "legal_status": "Rock"
+          },
+          "geographic_details": {
+            "coordinates": "8° 57' 27\" N, 113° 40' 57\" E",
+            "reclamation_area": "6.03 acres"
+          }
+        },
+        "Petley Reef": {
+          "location": "Spratly Islands",
+          "possession": {
+            "year": 1988,
+            "by": "Vietnam"
+          },
+          "international_names": {
+            "U.S.": "Petley Reef",
+            "China": "Bolan Jiao, 舶兰礁",
+            "Philippines": "Juan Luna Reef",
+            "Taiwan": "Bolan Jiao, 舶蘭礁",
+            "Vietnam": "Đá Núi Thị"
+          },
+          "current_status": {
+            "occupied_by": "Vietnam",
+            "legal_status": "Rock"
+          },
+          "geographic_details": {
+            "coordinates": "10° 24' 38.16\" N, 114° 35' 15.61\" E"
+          }
+        },
+        "Sand Cay": {
+              "location": "Spratly Islands",
+              "possession": {
+                "year": 1974,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "Sand Cay",
+                "China": "Dunqian Shazhou, 敦谦沙洲",
+                "Philippines": "Bailan Island",
+                "Taiwan": "Dunqian Shazhou, 敦謙沙洲",
+                "Vietnam": "Đảo Sơn Ca"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Rock"
+              },
+              "geographic_details": {
+                "coordinates": "10° 22' 29\" N, 114° 28' 48\" E",
+                "reclamation_area": "9.19 acres"
+              }
+            },
+            "Sin Cowe Island": {
+              "location": "Spratly Islands",
+              "possession": {
+                "year": 1974,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "Sin Cowe Island",
+                "China": "Jinghong Dao, 景宏岛",
+                "Philippines": "Rurok Island",
+                "Taiwan": "Jinghong Dao, 景宏島",
+                "Vietnam": "Đảo Sinh Tồn"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Rock"
+              },
+              "geographic_details": {
+                "coordinates": "9° 53' 7\" N, 114° 19' 47\" E",
+                "reclamation_area": "26.07 acres"
+              }
+            },
+            "South Reef": {
+              "location": "Spratly Islands",
+              "possession": {
+                "year": 1988,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "South Reef",
+                "China": "Nailuo Jiao, 奈罗礁",
+                "Vietnam": "Đá Nam"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Rock"
+              },
+              "geographic_details": {
+                "coordinates": "11° 23' 15\" N, 114° 17' 54\" E"
+              }
+            },
+            "Southwest Cay": {
+              "location": "Spratly Islands",
+              "possession": {
+                "year": 1975,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "Southwest Cay",
+                "China": "Nanzi Dao, 南子岛",
+                "Philippines": "Pugad Island",
+                "Taiwan": "Nanzi Jiao, 南子礁",
+                "Vietnam": "Đảo Song Tử Tây"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Rock"
+              },
+              "geographic_details": {
+                "coordinates": "11° 25' 44\" N, 114° 19' 54\" E",
+                "reclamation_area": "7.45 acres"
+              }
+            },
+            "Spratly Island": {
+              "location": "Spratly Islands",
+              "possession": {
+                "year": 1974,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "Spratly Island",
+                "China": "Nanwei Dao, 南威岛",
+                "Philippines": "Lagos Island",
+                "Taiwan": "Nanwei Dao, 南威島",
+                "Malaysia": "Pulau Spratly",
+                "Vietnam": "Đảo Trường Sa"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Rock"
+              },
+              "geographic_details": {
+                "coordinates": "8° 38' 43\" N, 111° 55' 12\" E",
+                "reclamation_area": "37.19 acres"
+              }
+            },
+            "Tennent Reef": {
+              "location": "Spratly Islands",
+              "possession": {
+                "year": 1974,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "Tennent Reef",
+                "China": "Wumie Jiao, 无乜礁",
+                "Philippines": "Lopez-Jaena Reef",
+                "Vietnam": "Đá Tiên Nữ"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Rock"
+              },
+              "geographic_details": {
+                "coordinates": "8° 51' 30\" N, 114° 39' 22\" E"
+              }
+            },
+            "West Reef": {
+              "location": "Spratly Islands",
+              "possession": {
+                "year": 1987,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "West Reef",
+                "China": "Xi Jiao, 西礁",
+                "Philippines": "Kanlurang Quezon Reef",
+                "Taiwan": "Xi Jiao, 西礁",
+                "Malaysia": "Terumbu Kanluran",
+                "Vietnam": "Đá Tây"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Rock"
+              },
+              "geographic_details": {
+                "coordinates": "8° 51' 29\" N, 112° 13' 33\" E",
+                "reclamation_area": "70.5 acres"
+              }
+            },
+            "Alexandra Bank": {
+              "location": "South China Sea",
+              "possession": {
+                "year": 1991,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "Alexandra Bank",
+                "China": "Renjun Tan, 人骏滩",
+                "Taiwan": "Renjun Tan, 人駿灘",
+                "Vietnam": "Bãi Huyền Trân"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Submerged",
+                "type": "DK1"
+              },
+              "geographic_details": {
+                "coordinates": "08° 01' 00\" N, 110° 37' 00\" E"
+              }
+            },
+            "Grainger Bank": {
+              "location": "South China Sea",
+              "possession": {
+                "year": 1991,
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "Grainger Bank",
+                "China": "Lizhun Tan, 李准滩",
+                "Taiwan": "Lizhun Tan, 李準灘",
+                "Vietnam": "Bãi Quế Đường"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Submerged",
+                "type": "DK1"
+              },
+              "geographic_details": {
+                "coordinates": "07° 47' 35\" N, 110° 30' 03\" E"
+              }
+            },
+            "Prince Consort Bank": {
+              "location": "South China Sea",
+              "possession": {
+                "year": "unknown",
+                "by": "Vietnam"
+              },
+              "international_names": {
+                "U.S.": "Prince Consort Bank",
+                "China": "Xiwei Tan, 西卫滩",
+                "Taiwan": "Xiwei Tan, 西衛灘",
+                "Vietnam": "Bãi Phúc Nguyên"
+              },
+              "current_status": {
+                "occupied_by": "Vietnam",
+                "legal_status": "Submerged",
+                "type": "DK1"
+              },
+              "geographic_details": {
+                "coordinates": "7° 53' 0\" N, 110° 0' 0\" E"
+              }
+            },
+              
+                "Rifleman Bank": {
+                  "location": "South China Sea",
+                  "possession": {
+                    "by": "Vietnam"
+                  },
+                  "international_names": {
+                    "U.S.": "Rifleman Bank",
+                    "China": "Nanwei Tan, 南薇滩",
+                    "Vietnam": "Bãi Vũng Mây"
+                  },
+                  "current_status": {
+                    "occupied_by": "Vietnam",
+                    "legal_status": "Submerged",
+                    "type": "DK1"
+                  },
+                  "geographic_details": {
+                    "coordinates": "7° 46' 6” N, 111° 39' 10\" E"
+                  }
+                },
+                "Vanguard Bank": {
+                  "location": "South China Sea",
+                  "possession": {
+                    "by": "Vietnam"
+                  },
+                  "international_names": {
+                    "U.S.": "Vanguard Bank",
+                    "China": "Wan'an Tan, 万安滩",
+                    "Taiwan": "Wan'an Tan, 萬安灘",
+                    "Vietnam": "Bãi Tư Chính"
+                  },
+                  "current_status": {
+                    "occupied_by": "Vietnam",
+                    "legal_status": "Submerged",
+                    "type": "DK1"
+                  },
+                  "geographic_details": {
+                    "coordinates": "7° 30' 49\" N, 109° 39' 58\" E"
+                  }
+                }
+              }
+              
