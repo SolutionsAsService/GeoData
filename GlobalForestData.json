@@ -1,0 +1,35 @@
+{
+  "Global Forest Data": {
+    "Total Land Area": "4.06 billion hectares",
+    "Percentage of Land Covered by Forests": "31%",
+    "Equivalent Area per Person": "0.52 hectares per person",
+    "Distribution of Forests": {
+      "Tropical Domain": "45%",
+      "Boreal Domain": "27%",
+      "Temperate Domain": "16%",
+      "Subtropical Domain": "11%"
+    },
+    "Top Five Countries with Forest Area (million hectares)": {
+      "Russian Federation": 815,
+      "Brazil": 497,
+      "Canada": 347,
+      "United States of America": 310,
+      "China": 220
+    },
+    "Global Population Estimate (2019)": "7.79 billion people",
+    "Key Findings": {
+      "Net Forest Area Loss Since 1990": "178 million hectares",
+      "Rate of Net Forest Loss": {
+        "1990-2000": "7.8 million hectares per year",
+        "2000-2010": "5.2 million hectares per year",
+        "2010-2020": "4.7 million hectares per year"
+      },
+      "Recent Slowdown in Net Forest Loss": "Rate of decline slowed due to reduced deforestation and forest expansion.",
+      "Global Annual Forest Area Net Change (1990-2020)": {
+        "1990-2000": "-7.8 million hectares per year",
+        "2000-2010": "-5.2 million hectares per year",
+        "2010-2020": "-4.7 million hectares per year"
+      }
+    }
+  }
+}
