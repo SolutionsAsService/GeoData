@@ -1,7 +1,12 @@
 {
   "AndesMountains": {
-    "name": "Andes",
+    "Names": {
+    "CommonName":"Andes",
+    "OtherName": [ "Andes Mountains", "Andean Mountain Range"],
+     "SpanishName": "Cordillera de los Andes",
+     "QuechuaName": "Anti"
     "alternateNames": ["Cordillera de los Andes", "Anti"],
+    },
     "description": "Longest continental mountain range in the world, forming a continuous highland along the western edge of South America.",
     "location": {
       "continent": "South America",
