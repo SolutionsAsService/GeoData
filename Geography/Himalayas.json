@@ -1,0 +1,77 @@
+{
+  "Himalayas": {
+    "description": "Mountain range in Asia, separating the Indian subcontinent from the Tibetan Plateau.",
+    "nativeName": {
+      "Sanskrit": "Himālaya",
+      "meaning": {
+        "hima": "snow, frost",
+        "alaya": "dwelling, abode"
+      }
+    },
+    "highestPoint": {
+      "name": "Mount Everest",
+      "location": "Nepal",
+      "elevationM": 8848.86,
+      "elevationFt": 29031.7,
+      "coordinates": {
+        "latitude": "27°59′N",
+        "longitude": "86°55′E"
+      }
+    },
+    "dimensions": {
+      "lengthKm": 2400,
+      "lengthMi": 1500,
+      "widthRangeKm": {
+        "west": 350,
+        "east": 150
+      }
+    },
+    "countries": [
+      "Bhutan",
+      "China",
+      "India",
+      "Nepal",
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "geology": {
+      "orogeny": "Alpine orogeny",
+      "ageOfRock": "Cretaceous-to-Cenozoic",
+      "typeOfRock": "Metamorphic, sedimentary"
+    },
+    "borderingRanges": {
+      "northwest": ["Karakoram", "Hindu Kush"],
+      "north": "Tibetan Plateau",
+      "south": "Indo-Gangetic Plain"
+    },
+    "majorRivers": [
+      "Indus",
+      "Ganges",
+      "Tsangpo–Brahmaputra"
+    ],
+    "population": {
+      "drainageBasin": 600000000,
+      "himalayanRegion": 53000000
+    },
+    "culturalSignificance": {
+      "influence": "Shaped the cultures of South Asia and Tibet",
+      "religions": ["Hinduism", "Buddhism"],
+      "sacredPeaks": ["Kangchenjunga", "Gangkhar Puensum", "Machapuchare", "Nanda Devi", "Kailash"]
+    },
+    "tectonics": {
+      "phenomenon": "Lifted by the subduction of the Indian tectonic plate under the Eurasian Plate",
+      "direction": "west-northwest to east-southeast",
+      "anchors": {
+        "western": "Nanga Parbat",
+        "eastern": "Namcha Barwa"
+      }
+    },
+    "keyFeatures": {
+      "geography": "Arc of the Himalayas, including Hindu Kush and Karakorams",
+      "climate": "Varied climate zones",
+      "ecology": "Diverse ecological regions",
+      "climateJustice": "Impacts and adaptation in the region",
+      "resources": "Natural and cultural resources"
+    }
+  }
+}
