@@ -1,0 +1,39 @@
+{
+  "RedSea": {
+    "location": {
+      "region": ["North Africa", "East Africa", "West Asia"],
+      "coordinates": "22°N 38°E",
+      "type": "Sea",
+      "primaryInflows": ["Barka River", "Haddas River", "Anseba River", "Wadi Gasus"],
+      "primaryOutflow": "Bab el Mandeb"
+    },
+    "basinCountries": ["Djibouti", "Egypt", "Eritrea", "Saudi Arabia", "Sudan", "Yemen", "Somalia", "Israel", "Jordan"],
+    "dimensions": {
+      "maxLength": "2,250 km (1,400 mi)",
+      "maxWidth": "355 km (221 mi)",
+      "surfaceArea": "438,000 km2 (169,000 sq mi)",
+      "averageDepth": "490 m (1,610 ft)",
+      "maxDepth": "3,040 m (9,970 ft)",
+      "waterVolume": "233,000 km3 (56,000 cu mi)"
+    },
+    "geologicalAndEcologicalFeatures": {
+      "shallowAreas": "Approximately 40% less than 100 m deep",
+      "marineLife": ["Over 1,000 invertebrate species", "200 types of coral"],
+      "coralReefs": "One of the world’s longest continuous living coral reefs",
+      "endemicSpecies": ["90% of fishes are Red Sea dottybacks and triple fins fish", "50% of butterflyfishes are endemic"]
+    },
+    "historyAndHumanImpact": {
+      "earlyExploration": "By ancient Egyptians around 2,500 BC and 1500 BC",
+      "historicalTradeRoutes": "Favored by Romans for trade with India",
+      "modernDevelopments": ["Suez Canal opened in 1869", "Used for spice trade during the Middle Ages", "Important maritime traffic route"]
+    },
+    "environmentalConcerns": {
+      "threats": ["Marine pollution", "Overfishing"],
+      "conservationEfforts": ["PERSGA initiative for coordinated management actions"]
+    },
+    "tectonicActivity": {
+      "RedSeaRift": "Part of the Great Rift Valley",
+      "seafloorSpreading": "Occurs at a rate of 1-2 centimeters per year"
+    }
+  }
+}
