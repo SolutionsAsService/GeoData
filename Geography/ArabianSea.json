@@ -1,5 +1,10 @@
 {
   "Arabian_Sea": {
+    "Name": {
+      "FullName": "Arabian Sea",
+      "Arabic" : "بَحرُ ٱلْعَرَبْ",
+      "romanized": "baḥr al-ʿarab"
+    },
     "General_Information": {
       "Location": "East Africa, West Asia, South Asia",
       "Coordinates": "14°N 65°E",
