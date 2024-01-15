@@ -1,5 +1,19 @@
 {
   "South China Sea": {
+    "Names": {
+      "Chinese names": {
+          "Chinese":"南海",
+           "Hanyu Pinyin": "Nán Hǎi",
+            "Lit": "South Sea"
+Transcriptions	Standard Mandarin	Hanyu Pinyin	Nán Hǎi	Bopomofo	ㄋㄢˊ ㄏㄞˇ	Wade–Giles	Nan2 Hai3	IPA	[nǎn xàɪ]	Wu	Romanization	noe平 he上	Hakka	Romanization	nam11 hoi31	Yue: Cantonese	Jyutping	naam4 hoi2	Southern Min	Hokkien POJ	lâm-hái	Hainanese Romanization	nâm-hái 
+"Alternative Chinese name"
+           "Simplified Chinese": "南中国海",
+            "Traditional Chinese": "南中國海",
+           "Hanyu Pinyin": "Nán Zhōngguó Hǎi",
+           "Lit": "South China Sea"
+          },
+
+      
     "Location": "East Asia and Southeast Asia",
     "Coordinates": "12°N 113°E",
     "Type": "Sea",
