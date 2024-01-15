@@ -1,0 +1,56 @@
+{
+  "CaucasusMountains": {
+    "description": "A mountain range at the intersection of Asia and Europe.",
+    "location": {
+      "between": ["Black Sea", "Caspian Sea"],
+      "region": "Caucasus",
+      "coordinates": {
+        "range": "42°30′N 45°00′E"
+      }
+    },
+    "highestPoint": {
+      "peak": "Mount Elbrus",
+      "elevation": "5,642 meters (18,510 feet)",
+      "listing": "Seven Summits",
+      "coordinates": "43°21′18″N 42°26′31″E"
+    },
+    "dimensions": {
+      "length": "1,200 kilometers (750 miles)",
+      "width": "160 kilometers (99 miles)",
+      "area": "477,165 square kilometers (184,234 square miles)"
+    },
+    "geography": {
+      "topographicMap": "Included",
+      "countries": ["Russia", "Georgia", "Azerbaijan", "Armenia"],
+      "continent": "Eurasia"
+    },
+    "satelliteImage": "Included",
+    "subRanges": {
+      "GreaterCaucasus": {
+        "direction": "West-northwest to east-southeast",
+        "location": ["Western Caucasus", "Baku"]
+      },
+      "LesserCaucasus": {
+        "parallelDistance": "Approximately 100 kilometers (62 miles) south",
+        "connectedRanges": ["Likhi Range", "Meskheti Range"]
+      },
+      "otherFeatures": ["Colchis Plain", "Kur-Araz Lowland", "Talysh Mountains", "Armenian Highland"]
+    },
+    "historicalSignificance": "Part of the Silk Road",
+    "geology": {},
+    "notablePeaks": {},
+    "climate": {},
+    "landscape": {},
+    "history": {},
+    "imageGallery": [
+      {
+        "imageType": "AerialView",
+        "description": "Aerial view of the Caucasus Mountains"
+      },
+      {
+        "imageType": "SatelliteImage",
+        "description": "Satellite image of the Caucasus Mountains"
+      }
+    ]
+  }
+}
