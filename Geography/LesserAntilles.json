@@ -1,0 +1,83 @@
+{
+  "LesserAntilles": {
+    "names": {
+      "english": "Lesser Antilles",
+      "dutch": "Kleine Antillen",
+      "french": "Petites Antilles",
+      "papiamento": "Antiyas Minores",
+      "spanish": "Antillas Menores",
+      "portuguese": "Pequenas Antilhas"
+    },
+    "region": "Caribbean",
+    "location": {
+      "withinCaribbean": true,
+      "coordinates": {
+        "latitude": "14°N",
+        "longitude": "61°W"
+      }
+    },
+    "islandStates": [
+      "Anguilla (UK)",
+      "Antigua and Barbuda",
+      "Aruba (NL)",
+      "Barbados",
+      "Bonaire (NL)",
+      "British Virgin Islands (UK)",
+      "Curaçao (NL)",
+      "Dominica",
+      "Grenada",
+      "Federal Dependencies of Venezuela (VE)",
+      "Guadeloupe (FR)",
+      "Martinique (FR)",
+      "Montserrat (UK)",
+      "Nueva Esparta (VE)",
+      "Saba (NL)",
+      "Saint Barthélemy (FR)",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin (FR)",
+      "Saint Vincent and the Grenadines",
+      "Sint Eustatius (NL)",
+      "Sint Maarten (NL)",
+      "Culebra, Puerto Rico/Vieques, Puerto Rico (Spanish Virgin Islands, PR)",
+      "Trinidad and Tobago",
+      "United States Virgin Islands (US)"
+    ],
+    "area": {
+      "totalKm": 14364,
+      "totalSqMi": 5546
+    },
+    "population": {
+      "year": 2009,
+      "total": 3949250,
+      "densityKm": 274.9,
+      "densitySqMi": 712
+    },
+    "demonym": "Lesser Antillean",
+    "timeZone": {
+      "standard": "UTC−4 (AST)",
+      "daylightSaving": "UTC−3 (ADT)"
+    },
+    "notableLocations": [
+      "Trunk Bay, United States Virgin Islands"
+    ],
+    "characteristics": {
+      "geologicalFormation": "partially volcanic island arc",
+      "relationWithOtherIslands": {
+        "GreaterAntilles": "north-west",
+        "SouthAmerica": "continent"
+      },
+      "oceanBoundary": {
+        "CaribbeanSea": "western",
+        "AtlanticOcean": "eastern"
+      },
+      "partOf": ["Antilles", "West Indies"],
+      "dominantEthnicGroupPreEuropeanArrival": "Kalinago"
+    },
+    "historicalContext": {
+      "EuropeanArrival": "16th century",
+      "boundaryWithGreaterAntilles": "poison arrow curtain",
+      "weaponOfChoice": "poison arrows"
+    }
+  }
+}
