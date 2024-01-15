@@ -1,0 +1,65 @@
+{
+  "AlaskaRange": {
+    "description": "A narrow, 600-mile-long mountain range in southcentral Alaska, stretching from Lake Clark to the White River in Canada's Yukon Territory.",
+    "highestPoint": {
+      "peak": "Denali",
+      "elevation": "20,310 feet (6,190 meters)",
+      "coordinates": "63°04′10″N 151°00′27″W"
+    },
+    "dimensions": {
+      "length": "1,000 kilometers (620 miles)",
+      "area": "144,752 square kilometers (55,889 square miles)"
+    },
+    "geography": {
+      "country": "United States",
+      "state": "Alaska",
+      "parentRange": "American Cordillera",
+      "borderRanges": "Pacific Coast Ranges"
+    },
+    "geology": {
+      "rockTypes": ["Sedimentary", "Metamorphic", "Igneous"],
+      "notableFormations": ["Denali Fault", "Hines Creek Fault"],
+      "plateTectonics": {
+        "PacificPlate": "northward movement",
+        "subduction": true
+      }
+    },
+    "majorPeaks": [
+      {"name": "Denali", "elevation": "20,310 feet"},
+      {"name": "Mount Foraker", "elevation": "17,400 feet"},
+      {"name": "Mount Hunter", "elevation": "14,573 feet"},
+      // Additional peaks can be listed here.
+    ],
+    "subRanges": [
+      "Neacola Mountains",
+      "Revelation Mountains",
+      "Teocalli Mountains",
+      "Kichatna Mountains",
+      "Central Alaska Range/Denali Massif",
+      "Eastern Alaska Range/Hayes Range",
+      "Delta Mountains",
+      "Mentasta Mountains",
+      "Nutzotin Mountains"
+    ],
+    "wildernessTraverses": [
+      {
+        "route": "Mentasta Lake to Kitchatna Mountains",
+        "year": 1981,
+        "traversers": ["Scott Woolums", "George Beilstein", "Steve Eck", "Larry Coxen"],
+        "method": "skis"
+      }
+    ],
+    "history": {
+      "naming": {
+        "firstUse": "1869",
+        "by": "W. H. Dall",
+        "originalNames": ["Tschigmit", "Chigmit Mountains", "Beaver Mountains"]
+      }
+    },
+    "protectedAreas": [
+      "Wrangell-St. Elias National Park and Preserve",
+      "Denali National Park and Preserve",
+      "Lake Clark National Park and Preserve"
+    ]
+  }
+}
