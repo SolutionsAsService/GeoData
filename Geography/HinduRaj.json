@@ -1,0 +1,58 @@
+{
+  "HinduRajMountains": {
+    "description": "A mountain range located in northern Pakistan, between the Hindu Kush and Karakoram ranges.",
+    "highestPoint": {
+      "peak": "Koyo Zom",
+      "elevation": "6,872 meters (22,546 feet)",
+      "coordinates": "36°19′42″N 72°59′55″E"
+    },
+    "geography": {
+      "location": "Pakistan",
+      "states": ["Khyber Pakhtunkhwa", "Gilgit-Baltistan"],
+      "nearbyRanges": ["Hindu Kush", "Karakoram"],
+      "averagePeakElevation": "5,000 to 6,000 meters"
+    },
+    "etymology": {
+      "name": "Hindu Raj",
+      "meaning": "Hindu rule in Sanskrit",
+      "origin": {
+        "Hindu": "Inhabitants of the land of the Sindhu (Indus) River, from Sanskrit 'Sindhu' meaning a large body of water",
+        "Raj": "Rule in Sans
+krit," "Sanskrit": "Ancient language of India"
+},
+"majorPeaks": [
+{"name": "Koyo Zom", "elevation": "6,872 meters"},
+{"name": "Buni Zom", "elevation": "6,542 meters"},
+{"name": "Ghamubar Zom"},
+{"name": "Gul Lasht Zom"}
+// Additional peaks can be listed here.
+],
+"notablePeaksGroup": {
+"BuniZomGroup": [
+{"name": "Buni Zom", "elevation": "6,542 meters", "climbed": true},
+{"name": "Awi Zom", "elevation": "6,484 meters", "climbed": true},
+{"name": "Rahman Zom", "elevation": "6,350 meters", "climbed": true},
+// Additional peaks in Buni Zom group can be listed here.
+]
+},
+"otherNotablePeaks": [
+{"name": "Madot/Madit Zom", "elevation": "6,100 meters"},
+{"name": "Pachan Zom", "e
+levation": "5,971 meters"},
+{"name": "Pechus Zom", "elevation": "6,514 meters"},
+{"name": "Golash Zom", "elevation": "6,100 meters"}
+// Additional peaks can be listed here.
+],
+"geologicalFeatures": {
+"description": "The Hindu Raj region is part of an accretionary orogen, characterized by structural segmentation, lithotectonic heterogeneity, multiple intrusive suites, and various deformation events. This complex tectonic environment is significant for understanding the geological history of the southern Asian margin.",
+"historicalGeology": {
+"MesozoicEra": "Formation of accretionary orogen",
+"NeoTethysOceanClosure": "Formation of Himalayan orogen",
+"subductionPeriod": "Late Jurassic to Eocene time"
+}
+},
+"additionalInformation": {
+"notes": "There is disagreement among sources about whether Buni Zom is part of the Hindu Raj or Hindu Kush."
+}
+}
+}
