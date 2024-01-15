@@ -1,0 +1,70 @@
+{
+  "LucayanArchipelago": {
+    "alternativeName": "Bahamian Archipelago",
+    "nativeName": "Lucayan Archipelago",
+    "location": {
+      "withinCaribbean": true,
+      "coordinates": {
+        "latitude": "23.74°N",
+        "longitude": "75.37°W"
+      },
+      "continent": "North America",
+      "subregion": "Caribbean",
+      "adjacentAreas": {
+        "northOf": "Cuba and the other Antillean Islands",
+        "eastAndSouthEastOf": "Florida",
+        "relationToCaribbeanSea": "not located on the Caribbean Sea"
+      }
+    },
+    "countriesAndTerritories": [
+      {
+        "name": "Bahamas",
+        "sovereignty": "Commonwealth of The Bahamas"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "sovereignty": "United Kingdom",
+        "demonym": ["Turks Islander", "Caicos Islander"]
+      }
+    ],
+    "area": {
+      "totalKm": 14308,
+      "totalSqMi": 5524
+    },
+    "population": {
+      "year": 2016,
+      "total": 443000,
+      "densityKm": 24.6,
+      "densitySqMi": 64
+    },
+    "demonym": "Bahamian",
+    "timeZone": {
+      "standard": "UTC−05:00 (EST)",
+      "daylightSaving": "UTC−04:00 (EDT)"
+    },
+    "culturalAndGeologicalCharacteristics": {
+      "commentByWilliamKeegan": "Modern political considerations aside, the islands form a single archipelago with common geological, ecological, and cultural roots.",
+      "geologyReference": {
+        "title": "Geology of Bahamas",
+        "editors": ["Vacher, H.L.", "Quinn, T."],
+        "bookTitle": "Geology and Hydrology of Carbonate Islands",
+        "series": "Developments in Sedimentology 54",
+        "publisher": "Elsevier Science B.V.",
+        "year": 1997,
+        "isbn": "9780444516442",
+        "pages": "91-139"
+      },
+      "languageReference": {
+        "title": "Languages of the Pre-Columbian Antilles",
+        "authors": ["Granberry, Julian", "Vescelius, Gary"],
+        "publisher": "University of Alabama Press",
+        "year": 2004,
+        "isbn": "0-8173-5123-X"
+      }
+    },
+    "historicalContext": {
+      "originalNativePeople": "Lucayan people",
+      "partOfWestIndies": true
+    }
+  }
+}
