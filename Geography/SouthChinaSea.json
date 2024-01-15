@@ -1,0 +1,60 @@
+{
+  "South China Sea": {
+    "Location": "East Asia and Southeast Asia",
+    "Coordinates": "12°N 113°E",
+    "Type": "Sea",
+    "Part of": "Pacific Ocean",
+    "Surface Area": "3,500,000 square kilometres (1,400,000 sq mi)",
+    "Major Features": {
+      "Islands": "List of islands in South China Sea",
+      "Trenches": "Manila Trench",
+      "Basins": "China Sea Basin"
+    },
+    "Settlements": {
+      "Major Cities": [
+        "Alaminos", "Bà Rịa", "Bạc Liêu", "... (more cities)"
+      ]
+    },
+    "Economic Importance": {
+      "Maritime Shipping": "$3.4 trillion of $16 trillion in 2016",
+      "Natural Resources": {
+        "Oil": "11 billion barrels (untapped)",
+        "Natural Gas": "190 trillion cubic feet"
+      },
+      "Fishing": "14% of world's commercial fishing in 2010"
+    },
+    "Territorial Claims": {
+      "Disputed Areas": [
+        "Spratly Islands", "Paracel Islands", "Others"
+      ],
+      "Claimants": ["Brunei", "China", "Indonesia", "Malaysia", "Philippines", "Taiwan", "Vietnam"]
+    },
+    "Recent Developments": {
+      "China": "Increased military and construction activities in disputed areas",
+      "USA": "Conducts freedom of navigation operations",
+      "ASEAN": "Negotiating code of conduct"
+    },
+    "Hydrography": {
+      "Bordering Countries": ["China", "Taiwan", "Philippines", "Malaysia", "Brunei", "Indonesia", "Vietnam"],
+      "Major Rivers": [
+        "Pearl", "Min", "Jiulong", "Red", "Mekong", "Menam", "Rajang", "... (more rivers)"
+      ]
+    },
+    "Geology": {
+      "Deep Basin": "China Sea Basin",
+      "Continental Shelf": ["Eastern side near Philippines", "Northwest side towards mainland"],
+      "Sunda Shelf": "Covers area between Borneo, Sumatra, and Malay Peninsula"
+    },
+    "Physical Features": {
+      "Southern Boundary": "Seabed rise between Sumatra and Borneo",
+      "Northern Boundary": "From northernmost point of Taiwan to Fujian province, China"
+    },
+    "Names": {
+      "Chinese": "Nan Hai (South Sea)",
+      "Vietnamese": "Biển Đông (East Sea)",
+      "Malay/Indonesian": "Laut Cina Selatan (South China Sea)",
+      "Filipino": "Dagat Timog Tsina (South China Sea)",
+      "Japanese": "Minami Shina Kai (South China Sea)"
+    }
+  }
+}
