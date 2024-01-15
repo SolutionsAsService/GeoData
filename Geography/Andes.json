@@ -1,0 +1,75 @@
+{
+  "AndesMountains": {
+    "name": "Andes",
+    "alternateNames": ["Cordillera de los Andes", "Anti"],
+    "description": "Longest continental mountain range in the world, forming a continuous highland along the western edge of South America.",
+    "location": {
+      "continent": "South America",
+      "countries": ["Venezuela", "Colombia", "Ecuador", "Peru", "Bolivia", "Chile", "Argentina"],
+      "coordinates": {
+        "latitude": "-32.0",
+        "longitude": "-70.0"
+      }
+    },
+    "highestPoint": {
+      "peak": "Aconcagua",
+      "elevationMeters": 6961,
+      "elevationFeet": 22838,
+      "location": "Mendoza, Argentina",
+      "coordinates": {
+        "latitude": "-32.6531972",
+        "longitude": "-70.0112000"
+      }
+    },
+    "dimensions": {
+      "lengthKm": 8900,
+      "widthKm": {"min": 200, "max": 700},
+      "averageHeightMeters": 4000
+    },
+    "climate": {
+      "variations": [
+        {"region": "Northern", "description": "Warm and wet"},
+        {"region": "Southern", "description": "Cooler and wet"},
+        {"region": "Western Central Andes", "description": "Very dry, includes Atacama Desert"},
+        {"region": "Eastern Plains of Argentina", "description": "Extremely dry"}
+      ]
+    },
+    "biodiversity": {
+      "flora": {
+        "totalSpecies": 30000,
+        "endemicSpecies": "50%"
+      },
+      "fauna": {
+        "amphibians": {"totalSpecies": 1000, "endemicSpecies": "66%"},
+        "fish": {"totalSpecies": 400},
+        "reptiles": {"totalSpecies": 600},
+        "mammals": {"totalSpecies": 600},
+        "birds": {"totalSpecies": 1700}
+      }
+    },
+    "geology": {
+      "formationPeriod": "50 to 80 million years ago",
+      "tectonicActivity": "Collision of Nazca and South American tectonic plates"
+    },
+    "history": {
+      "oldestHumanRemains": {"yearsAgo": 10000, "description": "Approximately 10,000 to 12,000 years old"},
+      "incaCivilization": {
+        "beginningCentury": 13,
+        "expansionPeriod": "1400s",
+        "majorConstructions": ["Machu Picchu", "Cuzco"],
+        "endPeriod": "1530s",
+        "causeOfCollapse": ["Spanish conquest", "civil war", "European diseases"]
+      }
+    },
+    "culturalSignificance": {
+      "indigenousCultures": ["Inca Empire"],
+      "music": "Andean music, characterized by pan flute and charango",
+      "cuisine": ["Potatoes", "Quinoa", "Maize"]
+    },
+    "environmentalThreats": ["Deforestation", "Mining", "Climate change"],
+    "mineralWealth": {
+      "description": "One of the most strongly mineralized mountain chains in the world",
+      "significantMinerals": ["Tin", "Silver", "Gold", "Antimony", "Lead", "Zinc"]
+    }
+  }
+}
