@@ -1,0 +1,61 @@
+{
+  "TianShanMountains": {
+    "name": "Tian Shan",
+    "alternativeNames": ["Tengri Tagh", "Tengir-Too"],
+    "description": "Large system of mountain ranges in Central Asia, known as the 'Mountains of God/Heaven'.",
+    "location": {
+      "continent": "Asia",
+      "countries": ["China", "Kazakhstan", "Kyrgyzstan", "Uzbekistan", "Tajikistan"],
+      "coordinates": {
+        "latitude": "42°N",
+        "longitude": "80°E"
+      }
+    },
+    "highestPoint": {
+      "peak": "Jengish Chokusu",
+      "elevationMeters": 7439,
+      "elevationFeet": 24406,
+      "coordinates": {
+        "latitude": "42°02′06″N",
+        "longitude": "80°07′32″E"
+      }
+    },
+    "geology": {
+      "ageOfRock": ["Mesozoic", "Cenozoic"],
+      "composition": ["sedimentary", "crystalline"],
+      "tectonicActivity": {
+        "earlyPaleozoic": "Northern and eastern sections underwent folding",
+        "latePaleozoic": "Western and southern portions underwent folding"
+      }
+    },
+    "glaciation": {
+      "totalArea": "3,900 square miles",
+      "majorGlacialAreas": ["Khan Tängiri", "Victory peaks", "Eren Habirg Mountains"],
+      "largestGlacier": "Engil’chek Glacier"
+    },
+    "demography": {
+      "ethnicGroups": ["Uighur", "Kyrgyz", "Uzbeks", "Mongols", "Kazakhs"],
+      "migrationPatterns": "Significant migration to Ili River Valley and other areas"
+    },
+    "UNESCOWorldHeritageSites": [
+      {
+        "name": "Xinjiang Tianshan",
+        "yearDesignated": 2013,
+        "criteria": ["vii", "ix"]
+      },
+      {
+        "name": "Western Tien-Shan",
+        "yearDesignated": 2016,
+        "criteria": ["x"]
+      }
+    ],
+    "historicalSignificance": {
+      "earlyReferences": "Related to the Xiongnu word Qilian, meaning 'sky' or 'heaven'."
+    },
+    "religion": {
+      "Tengrism": {
+        "description": "Sacred in Tengrism, with peaks like Khan Tengri being significant."
+      }
+    }
+  }
+}
