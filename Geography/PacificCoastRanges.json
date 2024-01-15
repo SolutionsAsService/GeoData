@@ -1,0 +1,48 @@
+{
+  "PacificCoastRanges": {
+    "officialName": "Pacific Mountain System",
+    "description": "Series of mountain ranges along the West Coast of North America.",
+    "geography": {
+      "stretch": "From Alaska to Northern and Central Mexico",
+      "totalLength": "3,800 miles (6,100 km)",
+      "countries": ["United States", "Canada", "Mexico"],
+      "westernmostRange": "Insular Mountains of Vancouver Island",
+      "parentRange": "North American Cordillera"
+    },
+    "highestPoint": {
+      "peak": "Mount Logan",
+      "elevationMeters": 5959,
+      "elevationFeet": 19551
+    },
+    "majorRanges": [
+      "Saint Elias Mountains",
+      "Coast Mountains",
+      "Insular Mountains",
+      "Olympic Mountains",
+      "Cascade Range",
+      "Oregon Coast Range",
+      "California Coast Ranges",
+      "Transverse Ranges",
+      "Peninsular Ranges",
+      "Sierra Madre Occidental"
+    ],
+    "geology": {
+      "rockAges": "Precambrian to 10,000 years old",
+      "examples": {
+        "PeninsularRanges": "Mesozoic batholitic rock",
+        "SanBernardinoMountains": "Precambrian metamorphic rock and Cenozoic sedimentary rock"
+      }
+    },
+    "climate": {
+      "northernCoastRanges": "Cool summers and mild winters",
+      "southernCoastRanges": "Drier summers",
+      "rainForests": "Northern Coast Ranges include lush rain forests"
+    },
+    "floraAndFauna": {
+      "bigGameAnimals": ["Bear", "Elk", "Deer"],
+      "smallFurBearingAnimals": ["Beaver", "Muskrat", "Rabbit", "Bobcat"]
+    },
+    "naturalResources": ["Gold", "Petroleum", "Fruits", "Nuts", "Vegetables"],
+    "economicActivity": ["Tourism", "Agriculture", "Timber Industry"]
+  }
+}
