@@ -1,0 +1,45 @@
+{
+  "BlackSea": {
+    "names": {
+      "Turkish": "Karadeniz",
+      "Russian": "Чёрное море",
+      "Georgian": "შავი ზღვა",
+      "Armenian": "Սեւ ծով",
+      "Greek": "Εύξεινος Πόντος",
+      "Bulgarian": "Черно море",
+      "Romanian": "Marea Neagră",
+      "Ukrainian": "Чорне море"
+    },
+    "location": {
+      "description": "Eastern Europe and West Asia",
+      "coordinates": "44°N 35°E"
+    },
+    "type": "Sea",
+    "primaryInflows": ["Danube", "Dnieper", "Don", "Dniester", "Kuban", "Black Sea undersea river"],
+    "primaryOutflows": ["Bosporus"],
+    "basinCountries": ["Bulgaria", "Georgia", "Romania", "Russia", "Turkey", "Ukraine"],
+    "dimensions": {
+      "maxLength": "1,175 km (730 mi)",
+      "surfaceArea": "436,402 km2 (168,500 sq mi)",
+      "averageDepth": "1,253 m (4,111 ft)",
+      "maxDepth": "2,212 m (7,257 ft)",
+      "waterVolume": "547,000 km3 (131,200 cu mi)"
+    },
+    "islands": "10+",
+    "geologicalAspects": {
+      "coastalFeatures": ["Pontic Mountains", "Caucasus Mountains", "Crimean Mountains", "Strandzha", "Cape Emine", "Dobruja Plateau"],
+      "coastalCities": ["Burgas", "Varna", "Constanța", "Odesa", "Sevastopol", "Novorossiysk", "Sochi", "Batumi", "Trabzon", "Samsun"]
+    },
+    "hydrologicalCharacteristics": {
+      "waterBalance": "Positive",
+      "annualNetOutflow": "300 km3 (72 cu mi) per year",
+      "connectionsWithOtherSeas": ["Aegean Sea", "Mediterranean Sea"],
+      "straitConnections": ["Bosporus", "Dardanelles", "Sea of Marmara", "Kerch Strait"],
+      "historicalWaterLevelVariations": true
+    },
+    "ecologicalAspects": {
+      "anoxicLayer": "Preserves ancient shipwrecks",
+      "underseaRiver": "Black Sea undersea river"
+    }
+  }
+}
