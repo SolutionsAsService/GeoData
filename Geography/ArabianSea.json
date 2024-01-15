@@ -1,0 +1,80 @@
+{
+  "Arabian_Sea": {
+    "General_Information": {
+      "Location": "East Africa, West Asia, South Asia",
+      "Coordinates": "14°N 65°E",
+      "Type": "Sea",
+      "Part_of": "Indian Ocean",
+      "Surface_Area": "3,862,000 km²",
+      "Max_Width": "2,400 km",
+      "Max_Depth": "4,652 m"
+    },
+    "Border_and_Basin_Countries": [
+      "India",
+      "Iran",
+      "Maldives",
+      "Oman",
+      "Pakistan",
+      "Seychelles",
+      "Somalia",
+      "Sri Lanka",
+      "Yemen"
+    ],
+    "Geography": {
+      "Islands": [
+        "Astola Island",
+        "Basavaraj Durga Island",
+        "Lakshadweep",
+        "Masirah Island",
+        "Piram Island",
+        "Pirotan",
+        "Socotra"
+      ],
+      "Rivers_Flowing_Into": [
+        "Indus",
+        "Ganges",
+        "Narmada",
+        "Sindhu",
+        "Tapi"
+      ]
+    },
+    "Trade_Routes": {
+      "Historical_Importance": "Significant since possibly as early as the 3rd millennium BCE.",
+      "Major_Routes": [
+        "Far East to Levant",
+        "Madhya Pradesh, India to Alexandria via Red Sea ports"
+      ],
+      "Major_Ports": [
+        "Jawaharlal Nehru Port (Mumbai)",
+        "Mundra Port",
+        "Nava Sheva",
+        "Kochi Port",
+        "Port of Karachi",
+        "Gwadar Port",
+        "Port of Salalah"
+      ]
+    },
+    "Environment_and_Wildlife": {
+      "Oxygen_Minimum_Zone": "Largest 'dead zone' in the world, especially towards the Gulf of Oman.",
+      "Arabian_Sea_Warming": "Impacting marine life and weather patterns in the region.",
+      "Marine_Life": [
+        "Tuna",
+        "Sardine",
+        "Billfish",
+        "Wahoo",
+        "Sharks",
+        "Lancet fish",
+        "Moonfish"
+      ],
+      "Fish_Mortality": "Periodic mass mortality due to low oxygen but high phosphate water."
+    },
+    "Alternative_Names": [
+      "Akhdar Sea",
+      "Bahre Fars",
+      "Hindu sea",
+      "Makran Sea",
+      "Sea of Oman",
+      "Erythraean Sea"
+    ]
+  }
+}
