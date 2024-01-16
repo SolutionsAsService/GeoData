@@ -35,26 +35,27 @@ Laut Nusantara (لاءوت نوسنتارا‎)
 (Nusantara Sea)
 Laut Campa (لاءوت چمڤا‎)
 (Champa Sea)
-Indonesian name
+     "Indonesian name": {
 Indonesian
 Laut Cina Selatan /
 Laut Tiongkok Selatan
 (South China Sea)
 Laut Natuna Utara
 (North Natuna Sea; Indonesian official government use; Claimed Indonesian EEZ only)[1]
-Filipino name
-Tagalog
-Dagat Timog Tsina
-(South China Sea)
-Dagat Luzon
-(Luzon Sea)
-Portuguese name
-Portuguese
-Mar da China Meridional
-(South China Sea)
-Tetum name
-Tetum
-Tasi Sul Xina
+"FilipinoName" : [
+  {
+  "Tagalog": "Dagat Timog Tsina",
+   "lit": "South China Sea" },
+  "Tagalog": "Dagat Luzon",
+    "lit": "Luzon Sea" }
+],
+ "Portuguese name": {
+  "Portuguese":"Mar da China Meridional"
+  "lit":"South China Sea"
+ },
+ "Tetum name": {
+ "Tetum": "Tasi Sul Xina"
+ },
 
       
     "Location": "East Asia and Southeast Asia",
