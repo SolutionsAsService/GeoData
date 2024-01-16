@@ -1,0 +1,70 @@
+{
+  "Hawaiian Islands": {
+    "Native Name": "Nā Moku o Hawai‘i",
+    "Location": "North Pacific Ocean",
+    "Coordinates": "20°54′00″N 156°36′00″W",
+    "Total Islands": 137,
+    "Highest Point": "Mauna Kea - 13,796 ft (4,205 m)",
+    "Administration": {
+      "Country": "United States",
+      "State": "Hawaii",
+      "Unincorporated Territory": "Midway Atoll"
+    },
+    "Largest Settlement": "Honolulu",
+    "Geology": "Hawaiian–Emperor seamount chain",
+    "Distance from Nearest Continent": "1,860 miles (3,000 km)",
+    "Subregion": "Polynesia",
+    "Protected Areas": {
+      "Northwestern Hawaiian Islands": "National Monument and World Heritage Site"
+    },
+    "Individual Islands": {
+      "Oahu": {
+        "Area": "1,545.4 sq. km",
+        "Population": "974,563",
+        "Capital": "Honolulu"
+      },
+      "Kauai": {
+        "Area": "1,456.4 sq. km",
+        "Tourism": "1,271,000 visitors (2017)"
+      },
+      "Molokai": {
+        "Area": "673.40 sq. km",
+        "Features": "Tallest sea cliffs, Longest fringing reef in the US"
+      },
+      "Lanai": {
+        "Area": "363.9 sq. km",
+        "Population": "3,131 (2010)"
+      },
+      "Niihau": {
+        "Area": "180.0 sq. km",
+        "Nickname": "Forbidden Isle"
+      },
+      "Kahoolawe": {
+        "Area": "115.5 sq. km",
+        "Characteristics": "Lacks permanent residents"
+      }
+    },
+    "Climate": {
+      "Winter Rainfall": "25 to 30 inches",
+      "Temperature Range": "67 to 88 degrees Fahrenheit",
+      "Record High Temperature": "100 degrees Fahrenheit (Pahala, 1931)"
+    },
+    "Cultural Heritage": {
+      "First Settlement": "Polynesians",
+      "Monarchy Period": "King Kamehameha to Queen Liliuokalani",
+      "Royal Palace": "Iolani Palace"
+    },
+    "Geological Formation": {
+      "Island Ages": {
+        "Molokai": "1.9 million years old",
+        "Lanai and Maui": "1.3 million years old each",
+        "Hawaii (Big Island)": "0.7 million years old"
+      },
+      "Ongoing Growth": "Yes, new volcanic material forming",
+      "Erosion and Biodiversity": "Varies with island age"
+    },
+    "Languages": {
+      "Official": ["English", "Hawaiian"]
+    }
+  }
+}
