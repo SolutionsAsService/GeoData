@@ -1,0 +1,135 @@
+{
+  "ThreeGorgesDam": {
+    "Name": "Three Gorges Dam",
+    "ChineseName": {
+      "Simplified": "三峡大坝",
+      "Traditional": "三峽大壩",
+      "Pinyin": "Sānxiá Dàbà"
+    },
+    "Location": {
+      "Country": "China",
+      "Province": "Hubei",
+      "District": "Yiling",
+      "Town": "Sandouping",
+      "Coordinates": "30°49′23″N 111°00′12″E"
+    },
+    "Purpose": ["Flood control", "Power generation", "Navigation"],
+    "Status": "Operational",
+    "Construction": {
+      "Start": "December 14, 1994",
+      "OpeningDate": "2003",
+      "Cost": "¥203 billion (US$31.765 billion)",
+      "Completion": {
+        "DamBody": "2006",
+        "PowerPlant": "2012"
+      }
+    },
+    "Ownership": {
+      "Company": "China Yangtze Power",
+      "ParentCompany": "China Three Gorges Corporation"
+    },
+    "DamSpecifications": {
+      "Type": "Gravity dam",
+      "Impounds": "Yangtze River",
+      "Dimensions": {
+        "Height": "181 m",
+        "Length": "2,335 m",
+        "Width": {
+          "Crest": "40 m",
+          "Base": "115 m"
+        },
+        "Volume": "27.2 million m3"
+      },
+      "SpillwayCapacity": "116,000 m3/s"
+    },
+    "Reservoir": {
+      "Name": "Three Gorges Reservoir",
+      "Capacity": "39.3 km3",
+      "CatchmentArea": "1,000,000 km2",
+      "SurfaceArea": "1,084 km2",
+      "MaxLength": "600 km",
+      "NormalElevation": "175 m"
+    },
+    "PowerStation": {
+      "CommissionDates": "2003–2012",
+      "Type": "Conventional",
+      "HydraulicHead": {
+        "Rated": "80.6 m",
+        "Maximum": "113 m"
+      },
+      "Turbines": {
+        "Main": "32 × 700 MW",
+        "Auxiliary": "2 × 50 MW Francis-type"
+      },
+      "InstalledCapacity": "22,500 MW",
+      "CapacityFactor": "45%",
+      "AnnualGeneration": "101.6 TWh (2018)"
+    },
+    "HistoricalContext": {
+      "EarlyVisions": [
+        {
+          "Year": "1919",
+          "Person": "Sun Yat-sen",
+          "Publication": "The International Development of China",
+          "PotentialOutput": "30 million horsepower"
+        },
+        {
+          "Year": "1932",
+          "Event": "Preliminary work by Nationalist government"
+        },
+        {
+          "Year": "1944",
+          "Person": "John L. Savage",
+          "Proposal": "Yangtze River Project"
+        }
+      ],
+      "MaoZedong": {
+        "Support": "Post-1949",
+        "Poem": "Swimming (1956)",
+    "Vision": "A Great Stone Wall to catch the clouds and rains of Wushan"
+},
+"Approval": {
+"Year": "1992",
+"Body": "National People's Congress",
+"VoteResult": {
+"InFavor": 1767,
+"Against": 177,
+"Abstained": 664,
+"NotVoted": 25,
+"ApprovalRate": "67.75%"
+}
+},
+"AdditionalProjects": {
+"UndergroundPowerPlant": "2009-2012",
+"ShipLift": "Completed in 2015"
+}
+},
+"EnvironmentalImpact": {
+"EcologicalChanges": ["Increased risk of landslides"],
+"HistoricalFlooding": {
+"Year": "1931",
+"Deaths": "Up to 4 million"
+},
+"GreenhouseGasEmissions": "Reduction efforts"
+},
+"SocietalImpact": {
+"FloodControl": "Reduces potential flooding downstream",
+"ShippingCapacity": "Increased on Yangtze River",
+"Displacement": {
+"AffectedPopulation": "Over 1.2 million residents",
+"RelocationAreas": ["Various urban and rural locations"],
+"TimeFrame": "2002-2008"
+}
+},
+"UpstreamDams": {
+"Purpose": "Maximize utility and reduce sedimentation",
+"Projects": [
+{"Name": "Wudongde", "Capacity": "MW", "Status": "Completed"},
+{"Name": "Baihetan", "Capacity": "MW", "Status": "Operational in 2022"},
+{"Name": "Xiluodu", "Capacity": "MW", "Status": "Completed"},
+{"Name": "Xiangjiaba", "Capacity": "MW", "Status": "Completed"}
+],
+"TotalCapacity": "38,500 MW"
+}
+}
+}
